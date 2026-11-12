@@ -1,0 +1,9 @@
+{
+  "answer_id": "A030",
+  "candidate_id": "C2051",
+  "role": "Backend Engineer",
+  "question_id": "Q6",
+  "submitted_at": "2026-09-20T10:39:00",
+  "duration_seconds": 76,
+  "transcript": "What have I learned recently... well, as a developer you have to keep learning all the time, technology moves really fast. Recently I've been learning about Kubernetes, because a lot of job descriptions mention it and it seems important for the future. I watched part of a course on Udemy, I finished maybe a third of it, it's quite long. It explains pods and deployments and things like that. I haven't used it in a real project yet because my company doesn't use Kubernetes, we just deploy to a normal server. But it's good to know. I also read some articles on Medium about microservices. And I tried ChatGPT for coding, it's pretty good for writing boilerplate. How did I learn it? Mostly videos, I like to learn at my own pace in the evenings. I'd like to finish the Kubernetes course this year. If I join a company that uses it, I'll be able to pick it up quickly because I already know the basics. So that's what I've been learning, mainly cloud and DevOps topics."
+}

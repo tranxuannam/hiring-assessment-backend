@@ -1,0 +1,541 @@
+answer_ref,candidate_id,role,question_id,scored_on,scorer_1,score_1,scorer_2,score_2
+S0001,C3024,Customer Success Associate,Q1,2026-08-05,lan.pham@example.com,2,minh.tran@example.com,3
+S0002,C3024,Customer Success Associate,Q2,2026-08-05,lan.pham@example.com,4,minh.tran@example.com,3
+S0003,C3024,Customer Success Associate,Q3,2026-08-05,lan.pham@example.com,2,minh.tran@example.com,3
+S0004,C3024,Customer Success Associate,Q4,2026-08-05,lan.pham@example.com,2,minh.tran@example.com,2
+S0005,C3024,Customer Success Associate,Q5,2026-08-05,lan.pham@example.com,1,minh.tran@example.com,1
+S0006,C3024,Customer Success Associate,Q6,2026-08-05,lan.pham@example.com,1,minh.tran@example.com,2
+S0007,C3022,Customer Success Associate,Q1,2026-08-06,lan.pham@example.com,3,minh.tran@example.com,4
+S0008,C3022,Customer Success Associate,Q2,2026-08-06,lan.pham@example.com,4,minh.tran@example.com,4
+S0009,C3022,Customer Success Associate,Q3,2026-08-06,lan.pham@example.com,3,minh.tran@example.com,3
+S0010,C3022,Customer Success Associate,Q4,2026-08-06,lan.pham@example.com,3,minh.tran@example.com,3
+S0011,C3022,Customer Success Associate,Q5,2026-08-06,lan.pham@example.com,4,minh.tran@example.com,4
+S0012,C3022,Customer Success Associate,Q6,2026-08-06,lan.pham@example.com,4,minh.tran@example.com,4
+S0013,C3023,Finance Analyst,Q1,2026-08-06,lan.pham@example.com,1,minh.tran@example.com,1
+S0014,C3023,Finance Analyst,Q2,2026-08-06,lan.pham@example.com,3,minh.tran@example.com,3
+S0015,C3023,Finance Analyst,Q3,2026-08-06,lan.pham@example.com,1,minh.tran@example.com,2
+S0016,C3023,Finance Analyst,Q4,2026-08-06,lan.pham@example.com,2,minh.tran@example.com,2
+S0017,C3023,Finance Analyst,Q5,2026-08-06,lan.pham@example.com,1,minh.tran@example.com,1
+S0018,C3023,Finance Analyst,Q6,2026-08-06,lan.pham@example.com,3,minh.tran@example.com,2
+S0019,C3010,Backend Engineer,Q1,2026-08-08,lan.pham@example.com,1,minh.tran@example.com,1
+S0020,C3010,Backend Engineer,Q2,2026-08-08,lan.pham@example.com,2,minh.tran@example.com,2
+S0021,C3010,Backend Engineer,Q3,2026-08-08,lan.pham@example.com,1,minh.tran@example.com,1
+S0022,C3010,Backend Engineer,Q4,2026-08-08,lan.pham@example.com,2,minh.tran@example.com,2
+S0023,C3010,Backend Engineer,Q5,2026-08-08,lan.pham@example.com,3,minh.tran@example.com,3
+S0024,C3010,Backend Engineer,Q6,2026-08-08,lan.pham@example.com,2,minh.tran@example.com,1
+S0025,C3027,Backend Engineer,Q1,2026-08-07,lan.pham@example.com,4,minh.tran@example.com,4
+S0026,C3027,Backend Engineer,Q2,2026-08-07,lan.pham@example.com,3,minh.tran@example.com,3
+S0027,C3027,Backend Engineer,Q3,2026-08-07,lan.pham@example.com,3,minh.tran@example.com,4
+S0028,C3027,Backend Engineer,Q4,2026-08-07,lan.pham@example.com,4,minh.tran@example.com,2
+S0029,C3027,Backend Engineer,Q5,2026-08-07,lan.pham@example.com,3,minh.tran@example.com,4
+S0030,C3027,Backend Engineer,Q6,2026-08-07,lan.pham@example.com,4,minh.tran@example.com,4
+S0031,C3020,Marketing Coordinator,Q1,2026-08-03,lan.pham@example.com,3,minh.tran@example.com,2
+S0032,C3020,Marketing Coordinator,Q2,2026-08-03,lan.pham@example.com,1,minh.tran@example.com,3
+S0033,C3020,Marketing Coordinator,Q3,2026-08-03,lan.pham@example.com,1,minh.tran@example.com,1
+S0034,C3020,Marketing Coordinator,Q4,2026-08-03,lan.pham@example.com,3,minh.tran@example.com,3
+S0035,C3020,Marketing Coordinator,Q5,2026-08-03,lan.pham@example.com,3,minh.tran@example.com,3
+S0036,C3020,Marketing Coordinator,Q6,2026-08-03,lan.pham@example.com,3,minh.tran@example.com,4
+S0037,C3001,Marketing Coordinator,Q1,2026-08-09,lan.pham@example.com,4,minh.tran@example.com,3
+S0038,C3001,Marketing Coordinator,Q2,2026-08-09,lan.pham@example.com,2,minh.tran@example.com,2
+S0039,C3001,Marketing Coordinator,Q3,2026-08-09,lan.pham@example.com,4,minh.tran@example.com,4
+S0040,C3001,Marketing Coordinator,Q4,2026-08-09,lan.pham@example.com,4,minh.tran@example.com,4
+S0041,C3001,Marketing Coordinator,Q5,2026-08-09,lan.pham@example.com,3,minh.tran@example.com,3
+S0042,C3001,Marketing Coordinator,Q6,2026-08-09,lan.pham@example.com,3,minh.tran@example.com,2
+S0043,C3014,Customer Success Associate,Q1,2026-08-07,lan.pham@example.com,2,minh.tran@example.com,4
+S0044,C3014,Customer Success Associate,Q2,2026-08-07,lan.pham@example.com,1,minh.tran@example.com,3
+S0045,C3014,Customer Success Associate,Q3,2026-08-07,lan.pham@example.com,1,minh.tran@example.com,1
+S0046,C3014,Customer Success Associate,Q4,2026-08-07,lan.pham@example.com,2,minh.tran@example.com,2
+S0047,C3014,Customer Success Associate,Q5,2026-08-07,lan.pham@example.com,4,minh.tran@example.com,4
+S0048,C3014,Customer Success Associate,Q6,2026-08-07,lan.pham@example.com,2,minh.tran@example.com,2
+S0049,C3018,Backend Engineer,Q1,2026-08-08,lan.pham@example.com,3,minh.tran@example.com,3
+S0050,C3018,Backend Engineer,Q2,2026-08-08,lan.pham@example.com,3,minh.tran@example.com,3
+S0051,C3018,Backend Engineer,Q3,2026-08-08,lan.pham@example.com,3,minh.tran@example.com,3
+S0052,C3018,Backend Engineer,Q4,2026-08-08,lan.pham@example.com,2,minh.tran@example.com,4
+S0053,C3018,Backend Engineer,Q5,2026-08-08,lan.pham@example.com,4,minh.tran@example.com,4
+S0054,C3018,Backend Engineer,Q6,2026-08-08,lan.pham@example.com,4,minh.tran@example.com,2
+S0055,C3004,Marketing Coordinator,Q1,2026-08-10,lan.pham@example.com,3,minh.tran@example.com,2
+S0056,C3004,Marketing Coordinator,Q2,2026-08-10,lan.pham@example.com,2,minh.tran@example.com,4
+S0057,C3004,Marketing Coordinator,Q3,2026-08-10,lan.pham@example.com,3,minh.tran@example.com,3
+S0058,C3004,Marketing Coordinator,Q4,2026-08-10,lan.pham@example.com,3,minh.tran@example.com,3
+S0059,C3004,Marketing Coordinator,Q5,2026-08-10,lan.pham@example.com,4,minh.tran@example.com,4
+S0060,C3004,Marketing Coordinator,Q6,2026-08-10,lan.pham@example.com,3,minh.tran@example.com,3
+S0061,C3021,Finance Analyst,Q1,2026-08-15,lan.pham@example.com,2,minh.tran@example.com,2
+S0062,C3021,Finance Analyst,Q2,2026-08-15,lan.pham@example.com,4,minh.tran@example.com,2
+S0063,C3021,Finance Analyst,Q3,2026-08-15,lan.pham@example.com,1,minh.tran@example.com,1
+S0064,C3021,Finance Analyst,Q4,2026-08-15,lan.pham@example.com,1,minh.tran@example.com,2
+S0065,C3021,Finance Analyst,Q5,2026-08-15,lan.pham@example.com,3,minh.tran@example.com,3
+S0066,C3021,Finance Analyst,Q6,2026-08-15,lan.pham@example.com,3,minh.tran@example.com,3
+S0067,C3045,Customer Success Associate,Q1,2026-08-12,lan.pham@example.com,2,minh.tran@example.com,2
+S0068,C3045,Customer Success Associate,Q2,2026-08-12,lan.pham@example.com,3,minh.tran@example.com,3
+S0069,C3045,Customer Success Associate,Q3,2026-08-12,lan.pham@example.com,2,minh.tran@example.com,2
+S0070,C3045,Customer Success Associate,Q4,2026-08-12,lan.pham@example.com,1,minh.tran@example.com,3
+S0071,C3045,Customer Success Associate,Q5,2026-08-12,lan.pham@example.com,1,minh.tran@example.com,2
+S0072,C3045,Customer Success Associate,Q6,2026-08-12,lan.pham@example.com,2,minh.tran@example.com,2
+S0073,C3067,Customer Success Associate,Q1,2026-08-17,lan.pham@example.com,4,minh.tran@example.com,2
+S0074,C3067,Customer Success Associate,Q2,2026-08-17,lan.pham@example.com,2,minh.tran@example.com,2
+S0075,C3067,Customer Success Associate,Q3,2026-08-17,lan.pham@example.com,3,minh.tran@example.com,3
+S0076,C3067,Customer Success Associate,Q4,2026-08-17,lan.pham@example.com,1,minh.tran@example.com,1
+S0077,C3067,Customer Success Associate,Q5,2026-08-17,lan.pham@example.com,4,minh.tran@example.com,3
+S0078,C3067,Customer Success Associate,Q6,2026-08-17,lan.pham@example.com,2,minh.tran@example.com,2
+S0079,C3042,Backend Engineer,Q1,2026-08-09,lan.pham@example.com,3,minh.tran@example.com,3
+S0080,C3042,Backend Engineer,Q2,2026-08-09,lan.pham@example.com,3,minh.tran@example.com,1
+S0081,C3042,Backend Engineer,Q3,2026-08-09,lan.pham@example.com,2,minh.tran@example.com,3
+S0082,C3042,Backend Engineer,Q4,2026-08-09,lan.pham@example.com,3,minh.tran@example.com,3
+S0083,C3042,Backend Engineer,Q5,2026-08-09,lan.pham@example.com,3,minh.tran@example.com,3
+S0084,C3042,Backend Engineer,Q6,2026-08-09,lan.pham@example.com,2,minh.tran@example.com,2
+S0085,C3032,Sales Executive,Q1,2026-08-12,lan.pham@example.com,3,minh.tran@example.com,2
+S0086,C3032,Sales Executive,Q2,2026-08-12,lan.pham@example.com,3,minh.tran@example.com,2
+S0087,C3032,Sales Executive,Q3,2026-08-12,lan.pham@example.com,2,minh.tran@example.com,4
+S0088,C3032,Sales Executive,Q4,2026-08-12,lan.pham@example.com,2,minh.tran@example.com,2
+S0089,C3032,Sales Executive,Q5,2026-08-12,lan.pham@example.com,1,minh.tran@example.com,2
+S0090,C3032,Sales Executive,Q6,2026-08-12,lan.pham@example.com,3,minh.tran@example.com,3
+S0091,C3118,Backend Engineer,Q1,2026-08-18,lan.pham@example.com,3,minh.tran@example.com,3
+S0092,C3118,Backend Engineer,Q2,2026-08-18,lan.pham@example.com,2,minh.tran@example.com,4
+S0093,C3118,Backend Engineer,Q3,2026-08-18,lan.pham@example.com,2,minh.tran@example.com,2
+S0094,C3118,Backend Engineer,Q4,2026-08-18,lan.pham@example.com,2,minh.tran@example.com,3
+S0095,C3118,Backend Engineer,Q5,2026-08-18,lan.pham@example.com,2,minh.tran@example.com,2
+S0096,C3118,Backend Engineer,Q6,2026-08-18,lan.pham@example.com,1,minh.tran@example.com,2
+S0097,C3060,Marketing Coordinator,Q1,2026-08-15,lan.pham@example.com,3,minh.tran@example.com,3
+S0098,C3060,Marketing Coordinator,Q2,2026-08-15,lan.pham@example.com,4,minh.tran@example.com,4
+S0099,C3060,Marketing Coordinator,Q3,2026-08-15,lan.pham@example.com,1,minh.tran@example.com,1
+S0100,C3060,Marketing Coordinator,Q4,2026-08-15,lan.pham@example.com,3,minh.tran@example.com,4
+S0101,C3060,Marketing Coordinator,Q5,2026-08-15,lan.pham@example.com,4,minh.tran@example.com,4
+S0102,C3060,Marketing Coordinator,Q6,2026-08-15,lan.pham@example.com,3,minh.tran@example.com,3
+S0103,C3076,Finance Analyst,Q1,2026-08-19,lan.pham@example.com,1,minh.tran@example.com,2
+S0104,C3076,Finance Analyst,Q2,2026-08-19,lan.pham@example.com,1,minh.tran@example.com,1
+S0105,C3076,Finance Analyst,Q3,2026-08-19,lan.pham@example.com,4,minh.tran@example.com,4
+S0106,C3076,Finance Analyst,Q4,2026-08-19,lan.pham@example.com,2,minh.tran@example.com,1
+S0107,C3076,Finance Analyst,Q5,2026-08-19,lan.pham@example.com,1,minh.tran@example.com,3
+S0108,C3076,Finance Analyst,Q6,2026-08-19,lan.pham@example.com,1,minh.tran@example.com,1
+S0109,C3083,Sales Executive,Q1,2026-08-15,lan.pham@example.com,4,minh.tran@example.com,4
+S0110,C3083,Sales Executive,Q2,2026-08-15,lan.pham@example.com,1,minh.tran@example.com,1
+S0111,C3083,Sales Executive,Q3,2026-08-15,lan.pham@example.com,3,minh.tran@example.com,1
+S0112,C3083,Sales Executive,Q4,2026-08-15,lan.pham@example.com,2,minh.tran@example.com,2
+S0113,C3083,Sales Executive,Q5,2026-08-15,lan.pham@example.com,2,minh.tran@example.com,1
+S0114,C3083,Sales Executive,Q6,2026-08-15,lan.pham@example.com,4,minh.tran@example.com,4
+S0115,C3102,Customer Success Associate,Q1,2026-08-17,lan.pham@example.com,4,minh.tran@example.com,4
+S0116,C3102,Customer Success Associate,Q2,2026-08-17,lan.pham@example.com,1,minh.tran@example.com,3
+S0117,C3102,Customer Success Associate,Q3,2026-08-17,lan.pham@example.com,4,minh.tran@example.com,2
+S0118,C3102,Customer Success Associate,Q4,2026-08-17,lan.pham@example.com,3,minh.tran@example.com,3
+S0119,C3102,Customer Success Associate,Q5,2026-08-17,lan.pham@example.com,2,minh.tran@example.com,2
+S0120,C3102,Customer Success Associate,Q6,2026-08-17,lan.pham@example.com,1,minh.tran@example.com,2
+S0121,C3071,Marketing Coordinator,Q1,2026-08-22,lan.pham@example.com,3,minh.tran@example.com,4
+S0122,C3071,Marketing Coordinator,Q2,2026-08-22,lan.pham@example.com,4,minh.tran@example.com,4
+S0123,C3071,Marketing Coordinator,Q3,2026-08-22,lan.pham@example.com,2,minh.tran@example.com,1
+S0124,C3071,Marketing Coordinator,Q4,2026-08-22,lan.pham@example.com,3,minh.tran@example.com,4
+S0125,C3071,Marketing Coordinator,Q5,2026-08-22,lan.pham@example.com,3,minh.tran@example.com,1
+S0126,C3071,Marketing Coordinator,Q6,2026-08-22,lan.pham@example.com,4,minh.tran@example.com,4
+S0127,C3090,Backend Engineer,Q1,2026-08-16,lan.pham@example.com,2,minh.tran@example.com,4
+S0128,C3090,Backend Engineer,Q2,2026-08-16,lan.pham@example.com,3,minh.tran@example.com,3
+S0129,C3090,Backend Engineer,Q3,2026-08-16,lan.pham@example.com,3,minh.tran@example.com,3
+S0130,C3090,Backend Engineer,Q4,2026-08-16,lan.pham@example.com,4,minh.tran@example.com,4
+S0131,C3090,Backend Engineer,Q5,2026-08-16,lan.pham@example.com,3,minh.tran@example.com,3
+S0132,C3090,Backend Engineer,Q6,2026-08-16,lan.pham@example.com,3,minh.tran@example.com,3
+S0133,C3092,Sales Executive,Q1,2026-08-16,lan.pham@example.com,4,minh.tran@example.com,4
+S0134,C3092,Sales Executive,Q2,2026-08-16,lan.pham@example.com,3,minh.tran@example.com,2
+S0135,C3092,Sales Executive,Q3,2026-08-16,lan.pham@example.com,4,minh.tran@example.com,4
+S0136,C3092,Sales Executive,Q4,2026-08-16,lan.pham@example.com,3,minh.tran@example.com,3
+S0137,C3092,Sales Executive,Q5,2026-08-16,lan.pham@example.com,4,minh.tran@example.com,4
+S0138,C3092,Sales Executive,Q6,2026-08-16,lan.pham@example.com,3,minh.tran@example.com,3
+S0139,C3145,Finance Analyst,Q1,2026-08-18,lan.pham@example.com,3,minh.tran@example.com,3
+S0140,C3145,Finance Analyst,Q2,2026-08-18,lan.pham@example.com,3,minh.tran@example.com,3
+S0141,C3145,Finance Analyst,Q3,2026-08-18,lan.pham@example.com,3,minh.tran@example.com,2
+S0142,C3145,Finance Analyst,Q4,2026-08-18,lan.pham@example.com,4,minh.tran@example.com,4
+S0143,C3145,Finance Analyst,Q5,2026-08-18,lan.pham@example.com,3,minh.tran@example.com,3
+S0144,C3145,Finance Analyst,Q6,2026-08-18,lan.pham@example.com,3,minh.tran@example.com,3
+S0145,C3161,Marketing Coordinator,Q1,2026-08-16,lan.pham@example.com,2,minh.tran@example.com,1
+S0146,C3161,Marketing Coordinator,Q2,2026-08-16,lan.pham@example.com,1,minh.tran@example.com,1
+S0147,C3161,Marketing Coordinator,Q3,2026-08-16,lan.pham@example.com,1,minh.tran@example.com,1
+S0148,C3161,Marketing Coordinator,Q4,2026-08-16,lan.pham@example.com,2,minh.tran@example.com,2
+S0149,C3161,Marketing Coordinator,Q5,2026-08-16,lan.pham@example.com,1,minh.tran@example.com,1
+S0150,C3161,Marketing Coordinator,Q6,2026-08-16,lan.pham@example.com,2,minh.tran@example.com,2
+S0151,C3078,Customer Success Associate,Q1,2026-08-17,lan.pham@example.com,2,minh.tran@example.com,2
+S0152,C3078,Customer Success Associate,Q2,2026-08-17,lan.pham@example.com,2,minh.tran@example.com,2
+S0153,C3078,Customer Success Associate,Q3,2026-08-17,lan.pham@example.com,1,minh.tran@example.com,1
+S0154,C3078,Customer Success Associate,Q4,2026-08-17,lan.pham@example.com,2,minh.tran@example.com,1
+S0155,C3078,Customer Success Associate,Q5,2026-08-17,lan.pham@example.com,2,minh.tran@example.com,2
+S0156,C3078,Customer Success Associate,Q6,2026-08-17,lan.pham@example.com,3,minh.tran@example.com,3
+S0157,C3131,Customer Success Associate,Q1,2026-08-16,lan.pham@example.com,1,minh.tran@example.com,2
+S0158,C3131,Customer Success Associate,Q2,2026-08-16,lan.pham@example.com,3,minh.tran@example.com,4
+S0159,C3131,Customer Success Associate,Q3,2026-08-16,lan.pham@example.com,2,minh.tran@example.com,2
+S0160,C3131,Customer Success Associate,Q4,2026-08-16,lan.pham@example.com,2,minh.tran@example.com,4
+S0161,C3131,Customer Success Associate,Q5,2026-08-16,lan.pham@example.com,2,minh.tran@example.com,2
+S0162,C3131,Customer Success Associate,Q6,2026-08-16,lan.pham@example.com,3,minh.tran@example.com,1
+S0163,C3058,Backend Engineer,Q1,2026-08-21,lan.pham@example.com,4,minh.tran@example.com,3
+S0164,C3058,Backend Engineer,Q2,2026-08-21,lan.pham@example.com,2,minh.tran@example.com,1
+S0165,C3058,Backend Engineer,Q3,2026-08-21,lan.pham@example.com,2,minh.tran@example.com,2
+S0166,C3058,Backend Engineer,Q4,2026-08-21,lan.pham@example.com,2,minh.tran@example.com,2
+S0167,C3058,Backend Engineer,Q5,2026-08-21,lan.pham@example.com,2,minh.tran@example.com,2
+S0168,C3058,Backend Engineer,Q6,2026-08-21,lan.pham@example.com,3,minh.tran@example.com,1
+S0169,C3147,Customer Success Associate,Q1,2026-08-29,lan.pham@example.com,4,minh.tran@example.com,2
+S0170,C3147,Customer Success Associate,Q2,2026-08-29,lan.pham@example.com,2,minh.tran@example.com,3
+S0171,C3147,Customer Success Associate,Q3,2026-08-29,lan.pham@example.com,4,minh.tran@example.com,4
+S0172,C3147,Customer Success Associate,Q4,2026-08-29,lan.pham@example.com,3,minh.tran@example.com,3
+S0173,C3147,Customer Success Associate,Q5,2026-08-29,lan.pham@example.com,3,minh.tran@example.com,3
+S0174,C3147,Customer Success Associate,Q6,2026-08-29,lan.pham@example.com,3,minh.tran@example.com,3
+S0175,C3134,Customer Success Associate,Q1,2026-08-17,lan.pham@example.com,1,minh.tran@example.com,1
+S0176,C3134,Customer Success Associate,Q2,2026-08-17,lan.pham@example.com,1,minh.tran@example.com,1
+S0177,C3134,Customer Success Associate,Q3,2026-08-17,lan.pham@example.com,1,minh.tran@example.com,3
+S0178,C3134,Customer Success Associate,Q4,2026-08-17,lan.pham@example.com,2,minh.tran@example.com,2
+S0179,C3134,Customer Success Associate,Q5,2026-08-17,lan.pham@example.com,2,minh.tran@example.com,4
+S0180,C3134,Customer Success Associate,Q6,2026-08-17,lan.pham@example.com,4,minh.tran@example.com,4
+S0181,C3150,Marketing Coordinator,Q1,2026-08-19,lan.pham@example.com,1,minh.tran@example.com,1
+S0182,C3150,Marketing Coordinator,Q2,2026-08-19,lan.pham@example.com,1,minh.tran@example.com,1
+S0183,C3150,Marketing Coordinator,Q3,2026-08-19,lan.pham@example.com,3,minh.tran@example.com,4
+S0184,C3150,Marketing Coordinator,Q4,2026-08-19,lan.pham@example.com,3,minh.tran@example.com,3
+S0185,C3150,Marketing Coordinator,Q5,2026-08-19,lan.pham@example.com,2,minh.tran@example.com,2
+S0186,C3150,Marketing Coordinator,Q6,2026-08-19,lan.pham@example.com,4,minh.tran@example.com,3
+S0187,C3162,Sales Executive,Q1,2026-08-18,lan.pham@example.com,1,minh.tran@example.com,2
+S0188,C3162,Sales Executive,Q2,2026-08-18,lan.pham@example.com,1,minh.tran@example.com,1
+S0189,C3162,Sales Executive,Q3,2026-08-18,lan.pham@example.com,4,minh.tran@example.com,4
+S0190,C3162,Sales Executive,Q4,2026-08-18,lan.pham@example.com,4,minh.tran@example.com,4
+S0191,C3162,Sales Executive,Q5,2026-08-18,lan.pham@example.com,3,minh.tran@example.com,3
+S0192,C3162,Sales Executive,Q6,2026-08-18,lan.pham@example.com,3,minh.tran@example.com,3
+S0193,C3128,Customer Success Associate,Q1,2026-08-23,lan.pham@example.com,1,minh.tran@example.com,2
+S0194,C3128,Customer Success Associate,Q2,2026-08-23,lan.pham@example.com,1,minh.tran@example.com,1
+S0195,C3128,Customer Success Associate,Q3,2026-08-23,lan.pham@example.com,3,minh.tran@example.com,3
+S0196,C3128,Customer Success Associate,Q4,2026-08-23,lan.pham@example.com,2,minh.tran@example.com,2
+S0197,C3128,Customer Success Associate,Q5,2026-08-23,lan.pham@example.com,3,minh.tran@example.com,3
+S0198,C3128,Customer Success Associate,Q6,2026-08-23,lan.pham@example.com,1,minh.tran@example.com,1
+S0199,C3157,Sales Executive,Q1,2026-08-25,lan.pham@example.com,1,minh.tran@example.com,3
+S0200,C3157,Sales Executive,Q2,2026-08-25,lan.pham@example.com,4,minh.tran@example.com,3
+S0201,C3157,Sales Executive,Q3,2026-08-25,lan.pham@example.com,2,minh.tran@example.com,2
+S0202,C3157,Sales Executive,Q4,2026-08-25,lan.pham@example.com,1,minh.tran@example.com,1
+S0203,C3157,Sales Executive,Q5,2026-08-25,lan.pham@example.com,1,minh.tran@example.com,1
+S0204,C3157,Sales Executive,Q6,2026-08-25,lan.pham@example.com,4,minh.tran@example.com,4
+S0205,C3130,Sales Executive,Q1,2026-08-21,lan.pham@example.com,1,minh.tran@example.com,1
+S0206,C3130,Sales Executive,Q2,2026-08-21,lan.pham@example.com,3,minh.tran@example.com,3
+S0207,C3130,Sales Executive,Q3,2026-08-21,lan.pham@example.com,2,minh.tran@example.com,2
+S0208,C3130,Sales Executive,Q4,2026-08-21,lan.pham@example.com,1,minh.tran@example.com,1
+S0209,C3130,Sales Executive,Q5,2026-08-21,lan.pham@example.com,1,minh.tran@example.com,2
+S0210,C3130,Sales Executive,Q6,2026-08-21,lan.pham@example.com,3,minh.tran@example.com,3
+S0211,C3163,Finance Analyst,Q1,2026-08-24,lan.pham@example.com,1,minh.tran@example.com,1
+S0212,C3163,Finance Analyst,Q2,2026-08-24,lan.pham@example.com,2,minh.tran@example.com,2
+S0213,C3163,Finance Analyst,Q3,2026-08-24,lan.pham@example.com,2,minh.tran@example.com,2
+S0214,C3163,Finance Analyst,Q4,2026-08-24,lan.pham@example.com,3,minh.tran@example.com,4
+S0215,C3163,Finance Analyst,Q5,2026-08-24,lan.pham@example.com,2,minh.tran@example.com,2
+S0216,C3163,Finance Analyst,Q6,2026-08-24,lan.pham@example.com,4,minh.tran@example.com,4
+S0217,C3140,Sales Executive,Q1,2026-08-25,lan.pham@example.com,3,minh.tran@example.com,4
+S0218,C3140,Sales Executive,Q2,2026-08-25,lan.pham@example.com,3,minh.tran@example.com,3
+S0219,C3140,Sales Executive,Q3,2026-08-25,lan.pham@example.com,3,minh.tran@example.com,3
+S0220,C3140,Sales Executive,Q4,2026-08-25,lan.pham@example.com,4,minh.tran@example.com,4
+S0221,C3140,Sales Executive,Q5,2026-08-25,lan.pham@example.com,4,minh.tran@example.com,4
+S0222,C3140,Sales Executive,Q6,2026-08-25,lan.pham@example.com,3,minh.tran@example.com,2
+S0223,C3137,Backend Engineer,Q1,2026-08-25,lan.pham@example.com,3,minh.tran@example.com,3
+S0224,C3137,Backend Engineer,Q2,2026-08-25,lan.pham@example.com,2,minh.tran@example.com,4
+S0225,C3137,Backend Engineer,Q3,2026-08-25,lan.pham@example.com,2,minh.tran@example.com,2
+S0226,C3137,Backend Engineer,Q4,2026-08-25,lan.pham@example.com,2,minh.tran@example.com,2
+S0227,C3137,Backend Engineer,Q5,2026-08-25,lan.pham@example.com,3,minh.tran@example.com,1
+S0228,C3137,Backend Engineer,Q6,2026-08-25,lan.pham@example.com,2,minh.tran@example.com,2
+S0229,C3148,Marketing Coordinator,Q1,2026-08-21,lan.pham@example.com,1,minh.tran@example.com,1
+S0230,C3148,Marketing Coordinator,Q2,2026-08-21,lan.pham@example.com,2,minh.tran@example.com,2
+S0231,C3148,Marketing Coordinator,Q3,2026-08-21,lan.pham@example.com,3,minh.tran@example.com,4
+S0232,C3148,Marketing Coordinator,Q4,2026-08-21,lan.pham@example.com,2,minh.tran@example.com,2
+S0233,C3148,Marketing Coordinator,Q5,2026-08-21,lan.pham@example.com,1,minh.tran@example.com,1
+S0234,C3148,Marketing Coordinator,Q6,2026-08-21,lan.pham@example.com,2,minh.tran@example.com,2
+S0235,C3153,Backend Engineer,Q1,2026-08-26,lan.pham@example.com,3,minh.tran@example.com,2
+S0236,C3153,Backend Engineer,Q2,2026-08-26,lan.pham@example.com,3,minh.tran@example.com,3
+S0237,C3153,Backend Engineer,Q3,2026-08-26,lan.pham@example.com,3,minh.tran@example.com,3
+S0238,C3153,Backend Engineer,Q4,2026-08-26,lan.pham@example.com,2,minh.tran@example.com,3
+S0239,C3153,Backend Engineer,Q5,2026-08-26,lan.pham@example.com,4,minh.tran@example.com,4
+S0240,C3153,Backend Engineer,Q6,2026-08-26,lan.pham@example.com,4,minh.tran@example.com,4
+S0241,C3143,Customer Success Associate,Q1,2026-08-22,lan.pham@example.com,3,minh.tran@example.com,3
+S0242,C3143,Customer Success Associate,Q2,2026-08-22,lan.pham@example.com,4,minh.tran@example.com,2
+S0243,C3143,Customer Success Associate,Q3,2026-08-22,lan.pham@example.com,4,minh.tran@example.com,3
+S0244,C3143,Customer Success Associate,Q4,2026-08-22,lan.pham@example.com,3,minh.tran@example.com,3
+S0245,C3143,Customer Success Associate,Q5,2026-08-22,lan.pham@example.com,4,minh.tran@example.com,3
+S0246,C3143,Customer Success Associate,Q6,2026-08-22,lan.pham@example.com,3,minh.tran@example.com,2
+S0247,C3230,Customer Success Associate,Q1,2026-08-28,lan.pham@example.com,2,minh.tran@example.com,2
+S0248,C3230,Customer Success Associate,Q2,2026-08-28,lan.pham@example.com,1,minh.tran@example.com,1
+S0249,C3230,Customer Success Associate,Q3,2026-08-28,lan.pham@example.com,3,minh.tran@example.com,3
+S0250,C3230,Customer Success Associate,Q4,2026-08-28,lan.pham@example.com,3,minh.tran@example.com,4
+S0251,C3230,Customer Success Associate,Q5,2026-08-28,lan.pham@example.com,2,minh.tran@example.com,2
+S0252,C3230,Customer Success Associate,Q6,2026-08-28,lan.pham@example.com,2,minh.tran@example.com,2
+S0253,C3220,Sales Executive,Q1,2026-08-27,lan.pham@example.com,2,minh.tran@example.com,2
+S0254,C3220,Sales Executive,Q2,2026-08-27,lan.pham@example.com,3,minh.tran@example.com,3
+S0255,C3220,Sales Executive,Q3,2026-08-27,lan.pham@example.com,4,minh.tran@example.com,3
+S0256,C3220,Sales Executive,Q4,2026-08-27,lan.pham@example.com,2,minh.tran@example.com,4
+S0257,C3220,Sales Executive,Q5,2026-08-27,lan.pham@example.com,3,minh.tran@example.com,3
+S0258,C3220,Sales Executive,Q6,2026-08-27,lan.pham@example.com,3,minh.tran@example.com,3
+S0259,C3154,Backend Engineer,Q1,2026-08-24,lan.pham@example.com,1,minh.tran@example.com,1
+S0260,C3154,Backend Engineer,Q2,2026-08-24,lan.pham@example.com,1,minh.tran@example.com,1
+S0261,C3154,Backend Engineer,Q3,2026-08-24,lan.pham@example.com,2,minh.tran@example.com,2
+S0262,C3154,Backend Engineer,Q4,2026-08-24,lan.pham@example.com,1,minh.tran@example.com,2
+S0263,C3154,Backend Engineer,Q5,2026-08-24,lan.pham@example.com,2,minh.tran@example.com,2
+S0264,C3154,Backend Engineer,Q6,2026-08-24,lan.pham@example.com,2,minh.tran@example.com,2
+S0265,C3209,Finance Analyst,Q1,2026-08-31,lan.pham@example.com,2,minh.tran@example.com,3
+S0266,C3209,Finance Analyst,Q2,2026-08-31,lan.pham@example.com,2,minh.tran@example.com,3
+S0267,C3209,Finance Analyst,Q3,2026-08-31,lan.pham@example.com,2,minh.tran@example.com,2
+S0268,C3209,Finance Analyst,Q4,2026-08-31,lan.pham@example.com,1,minh.tran@example.com,3
+S0269,C3209,Finance Analyst,Q5,2026-08-31,lan.pham@example.com,2,minh.tran@example.com,2
+S0270,C3209,Finance Analyst,Q6,2026-08-31,lan.pham@example.com,2,minh.tran@example.com,3
+S0271,C3122,Finance Analyst,Q1,2026-08-29,lan.pham@example.com,4,minh.tran@example.com,4
+S0272,C3122,Finance Analyst,Q2,2026-08-29,lan.pham@example.com,2,minh.tran@example.com,2
+S0273,C3122,Finance Analyst,Q3,2026-08-29,lan.pham@example.com,2,minh.tran@example.com,3
+S0274,C3122,Finance Analyst,Q4,2026-08-29,lan.pham@example.com,4,minh.tran@example.com,4
+S0275,C3122,Finance Analyst,Q5,2026-08-29,lan.pham@example.com,3,minh.tran@example.com,4
+S0276,C3122,Finance Analyst,Q6,2026-08-29,lan.pham@example.com,4,minh.tran@example.com,4
+S0277,C3198,Sales Executive,Q1,2026-08-26,lan.pham@example.com,3,minh.tran@example.com,3
+S0278,C3198,Sales Executive,Q2,2026-08-26,lan.pham@example.com,2,minh.tran@example.com,2
+S0279,C3198,Sales Executive,Q3,2026-08-26,lan.pham@example.com,3,minh.tran@example.com,3
+S0280,C3198,Sales Executive,Q4,2026-08-26,lan.pham@example.com,3,minh.tran@example.com,3
+S0281,C3198,Sales Executive,Q5,2026-08-26,lan.pham@example.com,4,minh.tran@example.com,4
+S0282,C3198,Sales Executive,Q6,2026-08-26,lan.pham@example.com,4,minh.tran@example.com,4
+S0283,C3213,Backend Engineer,Q1,2026-09-04,lan.pham@example.com,1,minh.tran@example.com,2
+S0284,C3213,Backend Engineer,Q2,2026-09-04,lan.pham@example.com,2,minh.tran@example.com,2
+S0285,C3213,Backend Engineer,Q3,2026-09-04,lan.pham@example.com,2,minh.tran@example.com,2
+S0286,C3213,Backend Engineer,Q4,2026-09-04,lan.pham@example.com,1,minh.tran@example.com,2
+S0287,C3213,Backend Engineer,Q5,2026-09-04,lan.pham@example.com,1,minh.tran@example.com,2
+S0288,C3213,Backend Engineer,Q6,2026-09-04,lan.pham@example.com,2,minh.tran@example.com,2
+S0289,C3222,Marketing Coordinator,Q1,2026-08-25,lan.pham@example.com,2,minh.tran@example.com,2
+S0290,C3222,Marketing Coordinator,Q2,2026-08-25,lan.pham@example.com,1,minh.tran@example.com,1
+S0291,C3222,Marketing Coordinator,Q3,2026-08-25,lan.pham@example.com,3,minh.tran@example.com,4
+S0292,C3222,Marketing Coordinator,Q4,2026-08-25,lan.pham@example.com,2,minh.tran@example.com,2
+S0293,C3222,Marketing Coordinator,Q5,2026-08-25,lan.pham@example.com,2,minh.tran@example.com,2
+S0294,C3222,Marketing Coordinator,Q6,2026-08-25,lan.pham@example.com,4,minh.tran@example.com,4
+S0295,C3234,Marketing Coordinator,Q1,2026-08-27,lan.pham@example.com,4,minh.tran@example.com,4
+S0296,C3234,Marketing Coordinator,Q2,2026-08-27,lan.pham@example.com,4,minh.tran@example.com,3
+S0297,C3234,Marketing Coordinator,Q3,2026-08-27,lan.pham@example.com,3,minh.tran@example.com,3
+S0298,C3234,Marketing Coordinator,Q4,2026-08-27,lan.pham@example.com,4,minh.tran@example.com,2
+S0299,C3234,Marketing Coordinator,Q5,2026-08-27,lan.pham@example.com,3,minh.tran@example.com,3
+S0300,C3234,Marketing Coordinator,Q6,2026-08-27,lan.pham@example.com,3,minh.tran@example.com,3
+S0301,C3229,Marketing Coordinator,Q1,2026-08-29,lan.pham@example.com,4,minh.tran@example.com,3
+S0302,C3229,Marketing Coordinator,Q2,2026-08-29,lan.pham@example.com,4,minh.tran@example.com,4
+S0303,C3229,Marketing Coordinator,Q3,2026-08-29,lan.pham@example.com,3,minh.tran@example.com,3
+S0304,C3229,Marketing Coordinator,Q4,2026-08-29,lan.pham@example.com,2,minh.tran@example.com,4
+S0305,C3229,Marketing Coordinator,Q5,2026-08-29,lan.pham@example.com,3,minh.tran@example.com,3
+S0306,C3229,Marketing Coordinator,Q6,2026-08-29,lan.pham@example.com,4,minh.tran@example.com,4
+S0307,C3212,Sales Executive,Q1,2026-08-29,lan.pham@example.com,3,minh.tran@example.com,2
+S0308,C3212,Sales Executive,Q2,2026-08-29,lan.pham@example.com,4,minh.tran@example.com,4
+S0309,C3212,Sales Executive,Q3,2026-08-29,lan.pham@example.com,4,minh.tran@example.com,3
+S0310,C3212,Sales Executive,Q4,2026-08-29,lan.pham@example.com,4,minh.tran@example.com,4
+S0311,C3212,Sales Executive,Q5,2026-08-29,lan.pham@example.com,3,minh.tran@example.com,4
+S0312,C3212,Sales Executive,Q6,2026-08-29,lan.pham@example.com,3,minh.tran@example.com,3
+S0313,C3233,Backend Engineer,Q1,2026-09-02,lan.pham@example.com,1,minh.tran@example.com,1
+S0314,C3233,Backend Engineer,Q2,2026-09-02,lan.pham@example.com,2,minh.tran@example.com,2
+S0315,C3233,Backend Engineer,Q3,2026-09-02,lan.pham@example.com,1,minh.tran@example.com,3
+S0316,C3233,Backend Engineer,Q4,2026-09-02,lan.pham@example.com,3,minh.tran@example.com,1
+S0317,C3233,Backend Engineer,Q5,2026-09-02,lan.pham@example.com,1,minh.tran@example.com,2
+S0318,C3233,Backend Engineer,Q6,2026-09-02,lan.pham@example.com,1,minh.tran@example.com,1
+S0319,C3227,Customer Success Associate,Q1,2026-09-02,lan.pham@example.com,2,minh.tran@example.com,2
+S0320,C3227,Customer Success Associate,Q2,2026-09-02,lan.pham@example.com,4,minh.tran@example.com,4
+S0321,C3227,Customer Success Associate,Q3,2026-09-02,lan.pham@example.com,3,minh.tran@example.com,3
+S0322,C3227,Customer Success Associate,Q4,2026-09-02,lan.pham@example.com,4,minh.tran@example.com,4
+S0323,C3227,Customer Success Associate,Q5,2026-09-02,lan.pham@example.com,4,minh.tran@example.com,4
+S0324,C3227,Customer Success Associate,Q6,2026-09-02,lan.pham@example.com,3,minh.tran@example.com,3
+S0325,C3211,Marketing Coordinator,Q1,2026-08-27,lan.pham@example.com,1,minh.tran@example.com,1
+S0326,C3211,Marketing Coordinator,Q2,2026-08-27,lan.pham@example.com,3,minh.tran@example.com,3
+S0327,C3211,Marketing Coordinator,Q3,2026-08-27,lan.pham@example.com,2,minh.tran@example.com,2
+S0328,C3211,Marketing Coordinator,Q4,2026-08-27,lan.pham@example.com,3,minh.tran@example.com,2
+S0329,C3211,Marketing Coordinator,Q5,2026-08-27,lan.pham@example.com,1,minh.tran@example.com,1
+S0330,C3211,Marketing Coordinator,Q6,2026-08-27,lan.pham@example.com,2,minh.tran@example.com,4
+S0331,C3202,Marketing Coordinator,Q1,2026-08-31,lan.pham@example.com,3,minh.tran@example.com,2
+S0332,C3202,Marketing Coordinator,Q2,2026-08-31,lan.pham@example.com,3,minh.tran@example.com,3
+S0333,C3202,Marketing Coordinator,Q3,2026-08-31,lan.pham@example.com,2,minh.tran@example.com,2
+S0334,C3202,Marketing Coordinator,Q4,2026-08-31,lan.pham@example.com,3,minh.tran@example.com,4
+S0335,C3202,Marketing Coordinator,Q5,2026-08-31,lan.pham@example.com,3,minh.tran@example.com,3
+S0336,C3202,Marketing Coordinator,Q6,2026-08-31,lan.pham@example.com,4,minh.tran@example.com,4
+S0337,C3187,Finance Analyst,Q1,2026-08-30,lan.pham@example.com,3,minh.tran@example.com,3
+S0338,C3187,Finance Analyst,Q2,2026-08-30,lan.pham@example.com,2,minh.tran@example.com,4
+S0339,C3187,Finance Analyst,Q3,2026-08-30,lan.pham@example.com,3,minh.tran@example.com,3
+S0340,C3187,Finance Analyst,Q4,2026-08-30,lan.pham@example.com,3,minh.tran@example.com,3
+S0341,C3187,Finance Analyst,Q5,2026-08-30,lan.pham@example.com,2,minh.tran@example.com,2
+S0342,C3187,Finance Analyst,Q6,2026-08-30,lan.pham@example.com,2,minh.tran@example.com,1
+S0343,C3208,Marketing Coordinator,Q1,2026-08-31,lan.pham@example.com,3,minh.tran@example.com,3
+S0344,C3208,Marketing Coordinator,Q2,2026-08-31,lan.pham@example.com,4,minh.tran@example.com,4
+S0345,C3208,Marketing Coordinator,Q3,2026-08-31,lan.pham@example.com,4,minh.tran@example.com,4
+S0346,C3208,Marketing Coordinator,Q4,2026-08-31,lan.pham@example.com,4,minh.tran@example.com,4
+S0347,C3208,Marketing Coordinator,Q5,2026-08-31,lan.pham@example.com,4,minh.tran@example.com,2
+S0348,C3208,Marketing Coordinator,Q6,2026-08-31,lan.pham@example.com,4,minh.tran@example.com,3
+S0349,C3219,Backend Engineer,Q1,2026-08-30,lan.pham@example.com,4,minh.tran@example.com,3
+S0350,C3219,Backend Engineer,Q2,2026-08-30,lan.pham@example.com,4,minh.tran@example.com,3
+S0351,C3219,Backend Engineer,Q3,2026-08-30,lan.pham@example.com,3,minh.tran@example.com,3
+S0352,C3219,Backend Engineer,Q4,2026-08-30,lan.pham@example.com,4,minh.tran@example.com,4
+S0353,C3219,Backend Engineer,Q5,2026-08-30,lan.pham@example.com,4,minh.tran@example.com,3
+S0354,C3219,Backend Engineer,Q6,2026-08-30,lan.pham@example.com,2,minh.tran@example.com,2
+S0355,C3252,Marketing Coordinator,Q1,2026-08-30,lan.pham@example.com,1,minh.tran@example.com,1
+S0356,C3252,Marketing Coordinator,Q2,2026-08-30,lan.pham@example.com,3,minh.tran@example.com,1
+S0357,C3252,Marketing Coordinator,Q3,2026-08-30,lan.pham@example.com,3,minh.tran@example.com,3
+S0358,C3252,Marketing Coordinator,Q4,2026-08-30,lan.pham@example.com,2,minh.tran@example.com,2
+S0359,C3252,Marketing Coordinator,Q5,2026-08-30,lan.pham@example.com,2,minh.tran@example.com,2
+S0360,C3252,Marketing Coordinator,Q6,2026-08-30,lan.pham@example.com,2,minh.tran@example.com,1
+S0361,C3210,Sales Executive,Q1,2026-09-05,lan.pham@example.com,3,minh.tran@example.com,3
+S0362,C3210,Sales Executive,Q2,2026-09-05,lan.pham@example.com,2,minh.tran@example.com,3
+S0363,C3210,Sales Executive,Q3,2026-09-05,lan.pham@example.com,1,minh.tran@example.com,2
+S0364,C3210,Sales Executive,Q4,2026-09-05,lan.pham@example.com,2,minh.tran@example.com,1
+S0365,C3210,Sales Executive,Q5,2026-09-05,lan.pham@example.com,2,minh.tran@example.com,1
+S0366,C3210,Sales Executive,Q6,2026-09-05,lan.pham@example.com,1,minh.tran@example.com,1
+S0367,C3182,Marketing Coordinator,Q1,2026-09-05,lan.pham@example.com,3,minh.tran@example.com,3
+S0368,C3182,Marketing Coordinator,Q2,2026-09-05,lan.pham@example.com,3,minh.tran@example.com,3
+S0369,C3182,Marketing Coordinator,Q3,2026-09-05,lan.pham@example.com,3,minh.tran@example.com,3
+S0370,C3182,Marketing Coordinator,Q4,2026-09-05,lan.pham@example.com,2,minh.tran@example.com,2
+S0371,C3182,Marketing Coordinator,Q5,2026-09-05,lan.pham@example.com,2,minh.tran@example.com,2
+S0372,C3182,Marketing Coordinator,Q6,2026-09-05,lan.pham@example.com,2,minh.tran@example.com,3
+S0373,C3275,Sales Executive,Q1,2026-09-01,lan.pham@example.com,1,minh.tran@example.com,1
+S0374,C3275,Sales Executive,Q2,2026-09-01,lan.pham@example.com,3,minh.tran@example.com,3
+S0375,C3275,Sales Executive,Q3,2026-09-01,lan.pham@example.com,1,minh.tran@example.com,2
+S0376,C3275,Sales Executive,Q4,2026-09-01,lan.pham@example.com,1,minh.tran@example.com,1
+S0377,C3275,Sales Executive,Q5,2026-09-01,lan.pham@example.com,2,minh.tran@example.com,2
+S0378,C3275,Sales Executive,Q6,2026-09-01,lan.pham@example.com,3,minh.tran@example.com,2
+S0379,C3216,Backend Engineer,Q1,2026-09-06,lan.pham@example.com,4,minh.tran@example.com,4
+S0380,C3216,Backend Engineer,Q2,2026-09-06,lan.pham@example.com,3,minh.tran@example.com,3
+S0381,C3216,Backend Engineer,Q3,2026-09-06,lan.pham@example.com,2,minh.tran@example.com,4
+S0382,C3216,Backend Engineer,Q4,2026-09-06,lan.pham@example.com,3,minh.tran@example.com,3
+S0383,C3216,Backend Engineer,Q5,2026-09-06,lan.pham@example.com,3,minh.tran@example.com,3
+S0384,C3216,Backend Engineer,Q6,2026-09-06,lan.pham@example.com,3,minh.tran@example.com,3
+S0385,C3247,Finance Analyst,Q1,2026-09-09,lan.pham@example.com,3,minh.tran@example.com,4
+S0386,C3247,Finance Analyst,Q2,2026-09-09,lan.pham@example.com,4,minh.tran@example.com,3
+S0387,C3247,Finance Analyst,Q3,2026-09-09,lan.pham@example.com,3,minh.tran@example.com,3
+S0388,C3247,Finance Analyst,Q4,2026-09-09,lan.pham@example.com,3,minh.tran@example.com,4
+S0389,C3247,Finance Analyst,Q5,2026-09-09,lan.pham@example.com,3,minh.tran@example.com,2
+S0390,C3247,Finance Analyst,Q6,2026-09-09,lan.pham@example.com,3,minh.tran@example.com,3
+S0391,C3260,Sales Executive,Q1,2026-09-01,lan.pham@example.com,3,minh.tran@example.com,2
+S0392,C3260,Sales Executive,Q2,2026-09-01,lan.pham@example.com,2,minh.tran@example.com,1
+S0393,C3260,Sales Executive,Q3,2026-09-01,lan.pham@example.com,3,minh.tran@example.com,3
+S0394,C3260,Sales Executive,Q4,2026-09-01,lan.pham@example.com,4,minh.tran@example.com,3
+S0395,C3260,Sales Executive,Q5,2026-09-01,lan.pham@example.com,3,minh.tran@example.com,4
+S0396,C3260,Sales Executive,Q6,2026-09-01,lan.pham@example.com,4,minh.tran@example.com,4
+S0397,C3256,Marketing Coordinator,Q1,2026-09-08,lan.pham@example.com,2,minh.tran@example.com,1
+S0398,C3256,Marketing Coordinator,Q2,2026-09-08,lan.pham@example.com,1,minh.tran@example.com,1
+S0399,C3256,Marketing Coordinator,Q3,2026-09-08,lan.pham@example.com,1,minh.tran@example.com,1
+S0400,C3256,Marketing Coordinator,Q4,2026-09-08,lan.pham@example.com,2,minh.tran@example.com,2
+S0401,C3256,Marketing Coordinator,Q5,2026-09-08,lan.pham@example.com,2,minh.tran@example.com,2
+S0402,C3256,Marketing Coordinator,Q6,2026-09-08,lan.pham@example.com,2,minh.tran@example.com,2
+S0403,C3270,Backend Engineer,Q1,2026-09-04,lan.pham@example.com,2,minh.tran@example.com,2
+S0404,C3270,Backend Engineer,Q2,2026-09-04,lan.pham@example.com,1,minh.tran@example.com,1
+S0405,C3270,Backend Engineer,Q3,2026-09-04,lan.pham@example.com,1,minh.tran@example.com,1
+S0406,C3270,Backend Engineer,Q4,2026-09-04,lan.pham@example.com,3,minh.tran@example.com,4
+S0407,C3270,Backend Engineer,Q5,2026-09-04,lan.pham@example.com,4,minh.tran@example.com,4
+S0408,C3270,Backend Engineer,Q6,2026-09-04,lan.pham@example.com,3,minh.tran@example.com,3
+S0409,C3290,Sales Executive,Q1,2026-09-03,lan.pham@example.com,2,minh.tran@example.com,4
+S0410,C3290,Sales Executive,Q2,2026-09-03,lan.pham@example.com,1,minh.tran@example.com,1
+S0411,C3290,Sales Executive,Q3,2026-09-03,lan.pham@example.com,2,minh.tran@example.com,2
+S0412,C3290,Sales Executive,Q4,2026-09-03,lan.pham@example.com,2,minh.tran@example.com,3
+S0413,C3290,Sales Executive,Q5,2026-09-03,lan.pham@example.com,3,minh.tran@example.com,3
+S0414,C3290,Sales Executive,Q6,2026-09-03,lan.pham@example.com,4,minh.tran@example.com,4
+S0415,C3266,Sales Executive,Q1,2026-09-04,lan.pham@example.com,2,minh.tran@example.com,2
+S0416,C3266,Sales Executive,Q2,2026-09-04,lan.pham@example.com,3,minh.tran@example.com,1
+S0417,C3266,Sales Executive,Q3,2026-09-04,lan.pham@example.com,2,minh.tran@example.com,2
+S0418,C3266,Sales Executive,Q4,2026-09-04,lan.pham@example.com,2,minh.tran@example.com,2
+S0419,C3266,Sales Executive,Q5,2026-09-04,lan.pham@example.com,2,minh.tran@example.com,2
+S0420,C3266,Sales Executive,Q6,2026-09-04,lan.pham@example.com,3,minh.tran@example.com,2
+S0421,C3271,Backend Engineer,Q1,2026-09-12,lan.pham@example.com,3,minh.tran@example.com,4
+S0422,C3271,Backend Engineer,Q2,2026-09-12,lan.pham@example.com,3,minh.tran@example.com,3
+S0423,C3271,Backend Engineer,Q3,2026-09-12,lan.pham@example.com,3,minh.tran@example.com,4
+S0424,C3271,Backend Engineer,Q4,2026-09-12,lan.pham@example.com,3,minh.tran@example.com,3
+S0425,C3271,Backend Engineer,Q5,2026-09-12,lan.pham@example.com,4,minh.tran@example.com,3
+S0426,C3271,Backend Engineer,Q6,2026-09-12,lan.pham@example.com,3,minh.tran@example.com,3
+S0427,C3263,Backend Engineer,Q1,2026-09-05,lan.pham@example.com,2,minh.tran@example.com,2
+S0428,C3263,Backend Engineer,Q2,2026-09-05,lan.pham@example.com,3,minh.tran@example.com,3
+S0429,C3263,Backend Engineer,Q3,2026-09-05,lan.pham@example.com,2,minh.tran@example.com,2
+S0430,C3263,Backend Engineer,Q4,2026-09-05,lan.pham@example.com,1,minh.tran@example.com,1
+S0431,C3263,Backend Engineer,Q5,2026-09-05,lan.pham@example.com,4,minh.tran@example.com,4
+S0432,C3263,Backend Engineer,Q6,2026-09-05,lan.pham@example.com,2,minh.tran@example.com,2
+S0433,C3240,Finance Analyst,Q1,2026-09-08,lan.pham@example.com,3,minh.tran@example.com,4
+S0434,C3240,Finance Analyst,Q2,2026-09-08,lan.pham@example.com,2,minh.tran@example.com,2
+S0435,C3240,Finance Analyst,Q3,2026-09-08,lan.pham@example.com,4,minh.tran@example.com,4
+S0436,C3240,Finance Analyst,Q4,2026-09-08,lan.pham@example.com,4,minh.tran@example.com,4
+S0437,C3240,Finance Analyst,Q5,2026-09-08,lan.pham@example.com,4,minh.tran@example.com,4
+S0438,C3240,Finance Analyst,Q6,2026-09-08,lan.pham@example.com,3,minh.tran@example.com,3
+S0439,C3276,Marketing Coordinator,Q1,2026-09-05,lan.pham@example.com,3,minh.tran@example.com,3
+S0440,C3276,Marketing Coordinator,Q2,2026-09-05,lan.pham@example.com,4,minh.tran@example.com,4
+S0441,C3276,Marketing Coordinator,Q3,2026-09-05,lan.pham@example.com,4,minh.tran@example.com,2
+S0442,C3276,Marketing Coordinator,Q4,2026-09-05,lan.pham@example.com,2,minh.tran@example.com,2
+S0443,C3276,Marketing Coordinator,Q5,2026-09-05,lan.pham@example.com,1,minh.tran@example.com,1
+S0444,C3276,Marketing Coordinator,Q6,2026-09-05,lan.pham@example.com,1,minh.tran@example.com,1
+S0445,C3279,Marketing Coordinator,Q1,2026-09-11,lan.pham@example.com,1,minh.tran@example.com,1
+S0446,C3279,Marketing Coordinator,Q2,2026-09-11,lan.pham@example.com,3,minh.tran@example.com,2
+S0447,C3279,Marketing Coordinator,Q3,2026-09-11,lan.pham@example.com,2,minh.tran@example.com,2
+S0448,C3279,Marketing Coordinator,Q4,2026-09-11,lan.pham@example.com,2,minh.tran@example.com,2
+S0449,C3279,Marketing Coordinator,Q5,2026-09-11,lan.pham@example.com,3,minh.tran@example.com,3
+S0450,C3279,Marketing Coordinator,Q6,2026-09-11,lan.pham@example.com,1,minh.tran@example.com,1
+S0451,C3241,Finance Analyst,Q1,2026-09-09,lan.pham@example.com,3,minh.tran@example.com,3
+S0452,C3241,Finance Analyst,Q2,2026-09-09,lan.pham@example.com,1,minh.tran@example.com,1
+S0453,C3241,Finance Analyst,Q3,2026-09-09,lan.pham@example.com,2,minh.tran@example.com,4
+S0454,C3241,Finance Analyst,Q4,2026-09-09,lan.pham@example.com,4,minh.tran@example.com,4
+S0455,C3241,Finance Analyst,Q5,2026-09-09,lan.pham@example.com,3,minh.tran@example.com,3
+S0456,C3241,Finance Analyst,Q6,2026-09-09,lan.pham@example.com,1,minh.tran@example.com,1
+S0457,C3327,Backend Engineer,Q1,2026-09-10,lan.pham@example.com,3,minh.tran@example.com,3
+S0458,C3327,Backend Engineer,Q2,2026-09-10,lan.pham@example.com,3,minh.tran@example.com,3
+S0459,C3327,Backend Engineer,Q3,2026-09-10,lan.pham@example.com,2,minh.tran@example.com,2
+S0460,C3327,Backend Engineer,Q4,2026-09-10,lan.pham@example.com,4,minh.tran@example.com,3
+S0461,C3327,Backend Engineer,Q5,2026-09-10,lan.pham@example.com,3,minh.tran@example.com,3
+S0462,C3327,Backend Engineer,Q6,2026-09-10,lan.pham@example.com,1,minh.tran@example.com,1
+S0463,C3295,Marketing Coordinator,Q1,2026-09-19,lan.pham@example.com,4,minh.tran@example.com,4
+S0464,C3295,Marketing Coordinator,Q2,2026-09-19,lan.pham@example.com,3,minh.tran@example.com,3
+S0465,C3295,Marketing Coordinator,Q3,2026-09-19,lan.pham@example.com,2,minh.tran@example.com,1
+S0466,C3295,Marketing Coordinator,Q4,2026-09-19,lan.pham@example.com,3,minh.tran@example.com,2
+S0467,C3295,Marketing Coordinator,Q5,2026-09-19,lan.pham@example.com,2,minh.tran@example.com,2
+S0468,C3295,Marketing Coordinator,Q6,2026-09-19,lan.pham@example.com,2,minh.tran@example.com,2
+S0469,C3350,Backend Engineer,Q1,2026-09-10,lan.pham@example.com,4,minh.tran@example.com,4
+S0470,C3350,Backend Engineer,Q2,2026-09-10,lan.pham@example.com,3,minh.tran@example.com,3
+S0471,C3350,Backend Engineer,Q3,2026-09-10,lan.pham@example.com,4,minh.tran@example.com,2
+S0472,C3350,Backend Engineer,Q4,2026-09-10,lan.pham@example.com,4,minh.tran@example.com,4
+S0473,C3350,Backend Engineer,Q5,2026-09-10,lan.pham@example.com,4,minh.tran@example.com,4
+S0474,C3350,Backend Engineer,Q6,2026-09-10,lan.pham@example.com,3,minh.tran@example.com,3
+S0475,C3320,Sales Executive,Q1,2026-09-16,lan.pham@example.com,3,minh.tran@example.com,1
+S0476,C3320,Sales Executive,Q2,2026-09-16,lan.pham@example.com,3,minh.tran@example.com,4
+S0477,C3320,Sales Executive,Q3,2026-09-16,lan.pham@example.com,4,minh.tran@example.com,4
+S0478,C3320,Sales Executive,Q4,2026-09-16,lan.pham@example.com,3,minh.tran@example.com,3
+S0479,C3320,Sales Executive,Q5,2026-09-16,lan.pham@example.com,3,minh.tran@example.com,2
+S0480,C3320,Sales Executive,Q6,2026-09-16,lan.pham@example.com,4,minh.tran@example.com,3
+S0481,C3294,Backend Engineer,Q1,2026-09-14,lan.pham@example.com,3,minh.tran@example.com,1
+S0482,C3294,Backend Engineer,Q2,2026-09-14,lan.pham@example.com,1,minh.tran@example.com,1
+S0483,C3294,Backend Engineer,Q3,2026-09-14,lan.pham@example.com,2,minh.tran@example.com,2
+S0484,C3294,Backend Engineer,Q4,2026-09-14,lan.pham@example.com,4,minh.tran@example.com,4
+S0485,C3294,Backend Engineer,Q5,2026-09-14,lan.pham@example.com,2,minh.tran@example.com,2
+S0486,C3294,Backend Engineer,Q6,2026-09-14,lan.pham@example.com,4,minh.tran@example.com,4
+S0487,C3301,Marketing Coordinator,Q1,2026-09-13,lan.pham@example.com,2,minh.tran@example.com,2
+S0488,C3301,Marketing Coordinator,Q2,2026-09-13,lan.pham@example.com,4,minh.tran@example.com,4
+S0489,C3301,Marketing Coordinator,Q3,2026-09-13,lan.pham@example.com,3,minh.tran@example.com,3
+S0490,C3301,Marketing Coordinator,Q4,2026-09-13,lan.pham@example.com,3,minh.tran@example.com,3
+S0491,C3301,Marketing Coordinator,Q5,2026-09-13,lan.pham@example.com,3,minh.tran@example.com,4
+S0492,C3301,Marketing Coordinator,Q6,2026-09-13,lan.pham@example.com,4,minh.tran@example.com,4
+S0493,C3307,Marketing Coordinator,Q1,2026-09-13,lan.pham@example.com,4,minh.tran@example.com,4
+S0494,C3307,Marketing Coordinator,Q2,2026-09-13,lan.pham@example.com,2,minh.tran@example.com,2
+S0495,C3307,Marketing Coordinator,Q3,2026-09-13,lan.pham@example.com,3,minh.tran@example.com,3
+S0496,C3307,Marketing Coordinator,Q4,2026-09-13,lan.pham@example.com,4,minh.tran@example.com,3
+S0497,C3307,Marketing Coordinator,Q5,2026-09-13,lan.pham@example.com,2,minh.tran@example.com,2
+S0498,C3307,Marketing Coordinator,Q6,2026-09-13,lan.pham@example.com,4,minh.tran@example.com,3
+S0499,C3336,Customer Success Associate,Q1,2026-09-16,lan.pham@example.com,3,minh.tran@example.com,3
+S0500,C3336,Customer Success Associate,Q2,2026-09-16,lan.pham@example.com,4,minh.tran@example.com,3
+S0501,C3336,Customer Success Associate,Q3,2026-09-16,lan.pham@example.com,3,minh.tran@example.com,3
+S0502,C3336,Customer Success Associate,Q4,2026-09-16,lan.pham@example.com,1,minh.tran@example.com,1
+S0503,C3336,Customer Success Associate,Q5,2026-09-16,lan.pham@example.com,2,minh.tran@example.com,2
+S0504,C3336,Customer Success Associate,Q6,2026-09-16,lan.pham@example.com,3,minh.tran@example.com,3
+S0505,C3339,Sales Executive,Q1,2026-09-11,lan.pham@example.com,3,minh.tran@example.com,1
+S0506,C3339,Sales Executive,Q2,2026-09-11,lan.pham@example.com,3,minh.tran@example.com,3
+S0507,C3339,Sales Executive,Q3,2026-09-11,lan.pham@example.com,1,minh.tran@example.com,1
+S0508,C3339,Sales Executive,Q4,2026-09-11,lan.pham@example.com,4,minh.tran@example.com,4
+S0509,C3339,Sales Executive,Q5,2026-09-11,lan.pham@example.com,1,minh.tran@example.com,1
+S0510,C3339,Sales Executive,Q6,2026-09-11,lan.pham@example.com,3,minh.tran@example.com,2
+S0511,C3297,Backend Engineer,Q1,2026-09-13,lan.pham@example.com,4,minh.tran@example.com,3
+S0512,C3297,Backend Engineer,Q2,2026-09-13,lan.pham@example.com,3,minh.tran@example.com,1
+S0513,C3297,Backend Engineer,Q3,2026-09-13,lan.pham@example.com,3,minh.tran@example.com,3
+S0514,C3297,Backend Engineer,Q4,2026-09-13,lan.pham@example.com,4,minh.tran@example.com,4
+S0515,C3297,Backend Engineer,Q5,2026-09-13,lan.pham@example.com,4,minh.tran@example.com,4
+S0516,C3297,Backend Engineer,Q6,2026-09-13,lan.pham@example.com,2,minh.tran@example.com,2
+S0517,C3306,Customer Success Associate,Q1,2026-09-16,lan.pham@example.com,4,minh.tran@example.com,4
+S0518,C3306,Customer Success Associate,Q2,2026-09-16,lan.pham@example.com,3,minh.tran@example.com,2
+S0519,C3306,Customer Success Associate,Q3,2026-09-16,lan.pham@example.com,3,minh.tran@example.com,3
+S0520,C3306,Customer Success Associate,Q4,2026-09-16,lan.pham@example.com,4,minh.tran@example.com,4
+S0521,C3306,Customer Success Associate,Q5,2026-09-16,lan.pham@example.com,3,minh.tran@example.com,2
+S0522,C3306,Customer Success Associate,Q6,2026-09-16,lan.pham@example.com,4,minh.tran@example.com,4
+S0523,C3371,Marketing Coordinator,Q1,2026-09-13,lan.pham@example.com,2,minh.tran@example.com,4
+S0524,C3371,Marketing Coordinator,Q2,2026-09-13,lan.pham@example.com,1,minh.tran@example.com,1
+S0525,C3371,Marketing Coordinator,Q3,2026-09-13,lan.pham@example.com,2,minh.tran@example.com,2
+S0526,C3371,Marketing Coordinator,Q4,2026-09-13,lan.pham@example.com,1,minh.tran@example.com,2
+S0527,C3371,Marketing Coordinator,Q5,2026-09-13,lan.pham@example.com,3,minh.tran@example.com,3
+S0528,C3371,Marketing Coordinator,Q6,2026-09-13,lan.pham@example.com,2,minh.tran@example.com,1
+S0529,C3364,Customer Success Associate,Q1,2026-09-13,lan.pham@example.com,4,minh.tran@example.com,4
+S0530,C3364,Customer Success Associate,Q2,2026-09-13,lan.pham@example.com,4,minh.tran@example.com,4
+S0531,C3364,Customer Success Associate,Q3,2026-09-13,lan.pham@example.com,3,minh.tran@example.com,1
+S0532,C3364,Customer Success Associate,Q4,2026-09-13,lan.pham@example.com,3,minh.tran@example.com,2
+S0533,C3364,Customer Success Associate,Q5,2026-09-13,lan.pham@example.com,4,minh.tran@example.com,4
+S0534,C3364,Customer Success Associate,Q6,2026-09-13,lan.pham@example.com,4,minh.tran@example.com,3
+S0535,C3387,Sales Executive,Q1,2026-09-15,lan.pham@example.com,1,minh.tran@example.com,1
+S0536,C3387,Sales Executive,Q2,2026-09-15,lan.pham@example.com,3,minh.tran@example.com,2
+S0537,C3387,Sales Executive,Q3,2026-09-15,lan.pham@example.com,3,minh.tran@example.com,3
+S0538,C3387,Sales Executive,Q4,2026-09-15,lan.pham@example.com,3,minh.tran@example.com,3
+S0539,C3387,Sales Executive,Q5,2026-09-15,lan.pham@example.com,2,minh.tran@example.com,1
+S0540,C3387,Sales Executive,Q6,2026-09-15,lan.pham@example.com,3,minh.tran@example.com,3

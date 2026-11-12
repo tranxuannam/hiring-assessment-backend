@@ -1,0 +1,9 @@
+{
+  "answer_id": "A009",
+  "candidate_id": "C2045",
+  "role": "Finance Analyst",
+  "question_id": "Q4",
+  "submitted_at": "2026-09-16T00:03:00",
+  "duration_seconds": 94,
+  "transcript": "Okay. The one I think about most is from my second year. At month-end I booked an accrual for a supplier's services, and then the actual invoice came in and got posted by the payables team, and I hadn't reversed my accrual. So the expense was in twice, around forty thousand dollars, and it went into the management pack. I didn't catch it, the... actually I did catch it, but late, about four days after the pack went out, when I was doing the variance review and the line just looked too high. So I went to my manager straight away, before anyone asked, and I showed her the two entries. We sent a correction note to the leadership team the same day with the right number and one line explaining what happened. Then I looked at why it could happen at all. We had no link between accruals and invoices. So I built a simple reversal schedule, every accrual gets a reversal date and a supplier reference, and payables checks it before posting. That was about a year and a half ago, and it's caught, I think, five similar cases since then, before they reached any report."
+}

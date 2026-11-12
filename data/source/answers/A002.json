@@ -1,0 +1,9 @@
+{
+  "answer_id": "A002",
+  "candidate_id": "C2041",
+  "role": "Backend Engineer",
+  "question_id": "Q2",
+  "submitted_at": "2026-09-14T15:23:00",
+  "duration_seconds": 76,
+  "transcript": "Right, so a tight deadline. Hmm. There was one where a partner, a logistics company, needed an API from us to pull order status, and the date got moved forward by about two weeks because their launch moved. I was the main backend person on it. What did I do... I sat down and I wrote out all the endpoints they had asked for, there were seven I think, and I just started building them one by one. I worked a couple of weekends, honestly. Some of it I copied from an older internal endpoint which saved time. Testing was a bit rushed, we mostly tested with their sandbox a few days before. We made the date, but two of the endpoints had bugs in the first week, one was returning the wrong time zone for delivered orders, which, yeah, that confused their drivers a little. We fixed it pretty fast. Looking back I would have asked earlier which endpoints they really needed on day one, because I found out later they only used three of them at launch. But overall it went okay and the partner was happy with us."
+}

@@ -1,0 +1,497 @@
+candidate_id,candidate_name,candidate_email,role,applied_on,cv_tier,invited_on,answers_submitted_on,outcome,outcome_on
+C3014,Phuong Bao Hoang,phuong.hoang.bao14@example.com,Customer Success Associate,2026-07-27,Tier 1,2026-07-29,2026-08-02,rejected,2026-08-10
+C3019,Ngoc Bao Huynh,ngoc.huynh.bao74@example.com,Finance Analyst,2026-07-27,Tier 2,2026-07-28,2026-07-31,advanced,2026-08-14
+C3024,My Ngoc Bui,my.bui.ngoc34@example.com,Customer Success Associate,2026-07-27,Tier 2,2026-07-30,2026-08-01,rejected,2026-08-11
+C3027,Quang Gia Do,quang.do.gia16@example.com,Backend Engineer,2026-07-27,Tier 2,2026-07-30,2026-08-02,advanced,2026-08-07
+C3033,Chi Thu Le,chi.le.thu78@example.com,Marketing Coordinator,2026-07-27,Tier 2,2026-07-29,2026-07-31,rejected,2026-08-09
+C3041,Trang Thu Le,trang.le.thu47@example.com,Backend Engineer,2026-07-27,Tier 2,2026-07-29,2026-07-31,rejected,2026-08-09
+C3049,Thao Thu Nguyen,thao.nguyen.thu79@example.com,Backend Engineer,2026-07-27,Tier 3,,,not_invited,2026-07-30
+C3052,Hai Ngoc Le,hai.le.ngoc17@example.com,Marketing Coordinator,2026-07-27,Tier 3,,,not_invited,2026-07-30
+C3008,Giang Thu Tran,giang.tran.thu82@example.com,Finance Analyst,2026-07-28,Tier 2,2026-07-29,2026-07-30,advanced,2026-08-08
+C3010,Loan Gia Ly,loan.ly.gia51@example.com,Backend Engineer,2026-07-28,Tier 1,2026-07-29,2026-08-02,rejected,2026-08-09
+C3020,Loan Bao Nguyen,loan.nguyen.bao66@example.com,Marketing Coordinator,2026-07-28,Tier 2,2026-07-30,2026-08-02,rejected,2026-08-13
+C3022,Thanh Ngoc Hoang,thanh.hoang.ngoc74@example.com,Customer Success Associate,2026-07-28,Tier 2,2026-07-29,2026-08-01,advanced,2026-08-10
+C3043,Giang Gia Le,giang.le.gia88@example.com,Backend Engineer,2026-07-28,Tier 2,2026-07-29,2026-07-30,rejected,2026-08-10
+C3044,Hai Van Ngo,hai.ngo.van74@example.com,Marketing Coordinator,2026-07-28,Tier 2,2026-07-29,2026-07-31,rejected,2026-08-07
+C3047,Duc Gia Vo,duc.vo.gia33@example.com,Marketing Coordinator,2026-07-28,Tier 3,,,not_invited,2026-07-29
+C3051,Kiet Duc Ly,kiet.ly.duc61@example.com,Finance Analyst,2026-07-28,Tier 2,2026-07-31,2026-08-01,advanced,2026-08-11
+C3056,Yen Kim Ngo,yen.ngo.kim94@example.com,Customer Success Associate,2026-07-28,Tier 1,2026-07-30,2026-08-01,rejected,2026-08-07
+C3001,Nhi Bao Phan,nhi.phan.bao78@example.com,Marketing Coordinator,2026-07-29,Tier 2,2026-07-30,2026-08-02,advanced,2026-08-09
+C3004,Linh Duc Nguyen,linh.nguyen.duc69@example.com,Marketing Coordinator,2026-07-29,Tier 2,2026-07-31,2026-08-04,advanced,2026-08-11
+C3011,Kiet Ngoc Le,kiet.le.ngoc21@example.com,Sales Executive,2026-07-29,Tier 1,2026-08-01,,no_answers_received,2026-08-12
+C3016,Hai Gia Ly,hai.ly.gia52@example.com,Finance Analyst,2026-07-29,Tier 1,2026-07-31,2026-08-02,withdrew,2026-08-12
+C3023,Hoa Thu Tran,hoa.tran.thu91@example.com,Finance Analyst,2026-07-29,Tier 1,2026-08-01,2026-08-02,rejected,2026-08-09
+C3013,Trang Kim Vu,trang.vu.kim38@example.com,Finance Analyst,2026-07-30,Tier 2,2026-08-02,2026-08-05,advanced,2026-08-15
+C3026,Quang Duc Huynh,quang.huynh.duc83@example.com,Marketing Coordinator,2026-07-30,Tier 2,2026-08-02,2026-08-04,advanced,2026-08-12
+C3028,My Gia Do,my.do.gia50@example.com,Sales Executive,2026-07-30,Tier 3,,,not_invited,2026-08-01
+C3046,Duc Thu Dang,duc.dang.thu32@example.com,Finance Analyst,2026-07-30,Tier 2,2026-08-01,2026-08-04,rejected,2026-08-18
+C3048,Linh Minh Vu,linh.vu.minh21@example.com,Finance Analyst,2026-07-30,Tier 1,2026-08-02,2026-08-03,withdrew,2026-08-11
+C3053,An Duc Do,an.do.duc22@example.com,Finance Analyst,2026-07-30,Tier 2,2026-08-02,2026-08-03,rejected,2026-08-13
+C3054,Sang Van Nguyen,sang.nguyen.van10@example.com,Customer Success Associate,2026-07-30,Tier 3,,,not_invited,2026-08-01
+C3007,Kiet Thi Ngo,kiet.ngo.thi64@example.com,Finance Analyst,2026-07-31,Tier 1,2026-08-02,2026-08-05,withdrew,2026-08-11
+C3012,Loan Hoang Nguyen,loan.nguyen.hoang47@example.com,Sales Executive,2026-07-31,Tier 2,2026-08-02,2026-08-04,rejected,2026-08-12
+C3015,Ngoc Duc Huynh,ngoc.huynh.duc67@example.com,Finance Analyst,2026-07-31,Tier 3,,,not_invited,2026-08-02
+C3029,Giang Bao Ngo,giang.ngo.bao58@example.com,Backend Engineer,2026-07-31,Tier 3,,,not_invited,2026-08-03
+C3035,Thanh Kim Bui,thanh.bui.kim82@example.com,Backend Engineer,2026-07-31,Tier 2,2026-08-02,2026-08-05,withdrew,2026-08-10
+C3037,Phuong Hoang Vo,phuong.vo.hoang15@example.com,Sales Executive,2026-07-31,Tier 2,2026-08-03,2026-08-06,rejected,2026-08-11
+C3040,Thao Minh Nguyen,thao.nguyen.minh63@example.com,Customer Success Associate,2026-07-31,Tier 3,,,not_invited,2026-08-02
+C3045,Hieu Kim Truong,hieu.truong.kim10@example.com,Customer Success Associate,2026-07-31,Tier 3,2026-08-01,2026-08-05,rejected,2026-08-16
+C3002,Dung Kim Truong,dung.truong.kim70@example.com,Backend Engineer,2026-08-01,Tier 2,2026-08-03,2026-08-07,withdrew,2026-08-10
+C3003,Tuan Bao Vo,tuan.vo.bao15@example.com,Finance Analyst,2026-08-01,Tier 3,,,not_invited,2026-08-02
+C3006,Duc Minh Ly,duc.ly.minh28@example.com,Marketing Coordinator,2026-08-01,Tier 2,2026-08-04,2026-08-05,advanced,2026-08-12
+C3009,Trang Thi Ly,trang.ly.thi39@example.com,Sales Executive,2026-08-01,Tier 1,2026-08-03,2026-08-07,rejected,2026-08-11
+C3017,Hoa Gia Tran,hoa.tran.gia59@example.com,Sales Executive,2026-08-01,Tier 2,2026-08-02,2026-08-06,advanced,2026-08-19
+C3018,Linh Van Tran,linh.tran.van72@example.com,Backend Engineer,2026-08-01,Tier 1,2026-08-02,2026-08-04,advanced,2026-08-11
+C3021,Sang Gia Nguyen,sang.nguyen.gia20@example.com,Finance Analyst,2026-08-01,Tier 2,2026-08-03,2026-08-05,rejected,2026-08-16
+C3025,Tam Thi Vo,tam.vo.thi81@example.com,Finance Analyst,2026-08-01,Tier 1,2026-08-03,,no_answers_received,2026-08-09
+C3031,Dung Thi Vo,dung.vo.thi76@example.com,Customer Success Associate,2026-08-01,Tier 2,2026-08-03,2026-08-04,rejected,2026-08-12
+C3032,Khanh Kim Ngo,khanh.ngo.kim88@example.com,Sales Executive,2026-08-01,Tier 2,2026-08-04,2026-08-08,rejected,2026-08-14
+C3036,Ha Duc Huynh,ha.huynh.duc29@example.com,Sales Executive,2026-08-01,Tier 1,2026-08-03,2026-08-04,advanced,2026-08-15
+C3038,Dung Hoang Le,dung.le.hoang55@example.com,Customer Success Associate,2026-08-01,Tier 2,2026-08-04,2026-08-06,withdrew,2026-08-10
+C3039,Kiet Hoang Dang,kiet.dang.hoang84@example.com,Marketing Coordinator,2026-08-01,Tier 1,2026-08-04,,no_answers_received,2026-08-11
+C3042,Loan Ngoc Do,loan.do.ngoc62@example.com,Backend Engineer,2026-08-01,Tier 2,2026-08-04,2026-08-07,rejected,2026-08-18
+C3005,Dung Thu Do,dung.do.thu15@example.com,Customer Success Associate,2026-08-02,Tier 1,2026-08-05,2026-08-09,advanced,2026-08-17
+C3030,Tam Gia Huynh,tam.huynh.gia93@example.com,Backend Engineer,2026-08-02,Tier 3,,,not_invited,2026-08-05
+C3034,Dung Thi Dang,dung.dang.thi82@example.com,Backend Engineer,2026-08-02,Tier 1,2026-08-04,,no_answers_received,2026-08-10
+C3050,Hai Bao Phan,hai.phan.bao46@example.com,Sales Executive,2026-08-02,Tier 3,,,not_invited,2026-08-04
+C3055,Chi Bao Ngo,chi.ngo.bao79@example.com,Customer Success Associate,2026-08-02,Tier 3,,,not_invited,2026-08-04
+C3057,Loan Hoang Bui,loan.bui.hoang89@example.com,Customer Success Associate,2026-08-03,Tier 3,2026-08-06,2026-08-07,rejected,2026-08-16
+C3067,Loan Hoang Huynh,loan.huynh.hoang36@example.com,Customer Success Associate,2026-08-03,Tier 1,2026-08-04,2026-08-06,rejected,2026-08-18
+C3072,Dung Thu Le,dung.le.thu38@example.com,Backend Engineer,2026-08-03,Tier 2,2026-08-04,2026-08-06,advanced,2026-08-17
+C3093,Linh Bao Truong,linh.truong.bao99@example.com,Customer Success Associate,2026-08-03,Tier 2,2026-08-04,2026-08-07,advanced,2026-08-15
+C3096,An Bao Huynh,an.huynh.bao26@example.com,Sales Executive,2026-08-03,Tier 1,2026-08-05,2026-08-06,rejected,2026-08-15
+C3101,Bao Thu Phan,bao.phan.thu17@example.com,Customer Success Associate,2026-08-03,Tier 2,2026-08-05,,no_answers_received,2026-08-18
+C3104,Tam Bao Vu,tam.vu.bao47@example.com,Backend Engineer,2026-08-03,Tier 3,,,not_invited,2026-08-05
+C3105,Bao Ngoc Huynh,bao.huynh.ngoc34@example.com,Finance Analyst,2026-08-03,Tier 2,2026-08-06,2026-08-07,withdrew,2026-08-11
+C3106,Linh Thu Do,linh.do.thu57@example.com,Marketing Coordinator,2026-08-03,Tier 2,2026-08-05,,no_answers_received,2026-08-18
+C3108,Loan Gia Vu,loan.vu.gia86@example.com,Backend Engineer,2026-08-03,Tier 1,2026-08-06,2026-08-10,withdrew,2026-08-16
+C3110,Giang Duc Nguyen,giang.nguyen.duc56@example.com,Backend Engineer,2026-08-03,Tier 2,2026-08-06,2026-08-10,withdrew,2026-08-13
+C3064,My Hoang Dang,my.dang.hoang81@example.com,Sales Executive,2026-08-04,Tier 2,2026-08-06,2026-08-07,rejected,2026-08-18
+C3074,An Hoang Vo,an.vo.hoang51@example.com,Finance Analyst,2026-08-04,Tier 1,2026-08-05,2026-08-08,withdrew,2026-08-18
+C3075,Hieu Bao Huynh,hieu.huynh.bao61@example.com,Sales Executive,2026-08-04,Tier 3,,,not_invited,2026-08-07
+C3082,Yen Ngoc Do,yen.do.ngoc94@example.com,Marketing Coordinator,2026-08-04,Tier 1,2026-08-07,2026-08-11,rejected,2026-08-17
+C3091,Tam Duc Ngo,tam.ngo.duc66@example.com,Sales Executive,2026-08-04,Tier 2,2026-08-07,2026-08-10,rejected,2026-08-22
+C3094,Chi Thu Huynh,chi.huynh.thu60@example.com,Marketing Coordinator,2026-08-04,Tier 2,2026-08-07,2026-08-08,advanced,2026-08-19
+C3112,Phuc Hoang Huynh,phuc.huynh.hoang81@example.com,Customer Success Associate,2026-08-04,Tier 3,,,not_invited,2026-08-06
+C3077,Tuan Minh Truong,tuan.truong.minh98@example.com,Backend Engineer,2026-08-05,Tier 2,2026-08-08,,no_answers_received,2026-08-22
+C3081,Duc Gia Vu,duc.vu.gia23@example.com,Finance Analyst,2026-08-05,Tier 3,,,not_invited,2026-08-08
+C3083,Quang Van Vo,quang.vo.van70@example.com,Sales Executive,2026-08-05,Tier 2,2026-08-08,2026-08-11,rejected,2026-08-17
+C3084,Yen Hoang Le,yen.le.hoang24@example.com,Backend Engineer,2026-08-05,Tier 2,2026-08-06,2026-08-09,withdrew,2026-08-22
+C3085,Sang Thu Vo,sang.vo.thu10@example.com,Customer Success Associate,2026-08-05,Tier 3,,,not_invited,2026-08-08
+C3086,Ngoc Thu Nguyen,ngoc.nguyen.thu83@example.com,Marketing Coordinator,2026-08-05,Tier 2,2026-08-06,2026-08-07,rejected,2026-08-17
+C3089,Hai Minh Phan,hai.phan.minh18@example.com,Sales Executive,2026-08-05,Tier 3,,,not_invited,2026-08-06
+C3107,Hoa Thu Le,hoa.le.thu32@example.com,Finance Analyst,2026-08-05,Tier 3,,,not_invited,2026-08-06
+C3117,Trang Hoang Nguyen,trang.nguyen.hoang39@example.com,Finance Analyst,2026-08-05,Tier 2,2026-08-07,2026-08-08,withdrew,2026-08-17
+C3118,Dung Thi Vu,dung.vu.thi36@example.com,Backend Engineer,2026-08-05,Tier 1,2026-08-07,2026-08-09,rejected,2026-08-19
+C3119,Nhi Thi Ngo,nhi.ngo.thi87@example.com,Marketing Coordinator,2026-08-05,Tier 2,2026-08-07,,no_answers_received,2026-08-21
+C3066,Khanh Thu Dang,khanh.dang.thu26@example.com,Sales Executive,2026-08-06,Tier 2,2026-08-08,2026-08-12,rejected,2026-08-25
+C3076,Trang Thi Vo,trang.vo.thi45@example.com,Finance Analyst,2026-08-06,Tier 2,2026-08-08,2026-08-11,rejected,2026-08-21
+C3095,Mai Gia Tran,mai.tran.gia61@example.com,Sales Executive,2026-08-06,Tier 2,2026-08-08,,no_answers_received,2026-08-22
+C3099,Hoa Van Vu,hoa.vu.van11@example.com,Finance Analyst,2026-08-06,Tier 2,2026-08-09,2026-08-10,advanced,2026-08-21
+C3103,Loan Kim Dang,loan.dang.kim21@example.com,Marketing Coordinator,2026-08-06,Tier 3,,,not_invited,2026-08-08
+C3109,Chi Bao Dang,chi.dang.bao69@example.com,Backend Engineer,2026-08-06,Tier 1,2026-08-08,,no_answers_received,2026-08-16
+C3059,Duc Minh Pham,duc.pham.minh10@example.com,Marketing Coordinator,2026-08-07,Tier 2,2026-08-09,2026-08-11,rejected,2026-08-26
+C3060,Ngoc Minh Hoang,ngoc.hoang.minh99@example.com,Marketing Coordinator,2026-08-07,Tier 1,2026-08-08,2026-08-10,advanced,2026-08-22
+C3065,Trang Gia Phan,trang.phan.gia28@example.com,Finance Analyst,2026-08-07,Tier 2,2026-08-08,2026-08-09,rejected,2026-08-15
+C3069,Yen Ngoc Ngo,yen.ngo.ngoc30@example.com,Backend Engineer,2026-08-07,Tier 1,2026-08-10,2026-08-11,rejected,2026-08-16
+C3071,Bao Duc Truong,bao.truong.duc39@example.com,Marketing Coordinator,2026-08-07,Tier 1,2026-08-10,2026-08-12,advanced,2026-08-22
+C3073,Tuan Bao Ly,tuan.ly.bao59@example.com,Customer Success Associate,2026-08-07,Tier 1,2026-08-08,2026-08-11,advanced,2026-08-20
+C3087,Giang Duc Vo,giang.vo.duc26@example.com,Sales Executive,2026-08-07,Tier 3,,,not_invited,2026-08-09
+C3088,Hai Ngoc Nguyen,hai.nguyen.ngoc42@example.com,Sales Executive,2026-08-07,Tier 2,2026-08-10,2026-08-14,rejected,2026-08-23
+C3097,Vy Thu Vo,vy.vo.thu36@example.com,Finance Analyst,2026-08-07,Tier 3,,,not_invited,2026-08-09
+C3098,Loan Van Truong,loan.truong.van19@example.com,Finance Analyst,2026-08-07,Tier 3,2026-08-09,2026-08-11,rejected,2026-08-17
+C3111,Kiet Duc Le,kiet.le.duc70@example.com,Finance Analyst,2026-08-07,Tier 2,2026-08-08,2026-08-10,withdrew,2026-08-15
+C3061,Quang Ngoc Hoang,quang.hoang.ngoc38@example.com,Customer Success Associate,2026-08-08,Tier 3,2026-08-11,2026-08-13,rejected,2026-08-22
+C3063,Bao Duc Pham,bao.pham.duc14@example.com,Marketing Coordinator,2026-08-08,Tier 2,2026-08-10,2026-08-13,advanced,2026-08-24
+C3079,Hai Ngoc Ngo,hai.ngo.ngoc49@example.com,Marketing Coordinator,2026-08-08,Tier 3,,,not_invited,2026-08-09
+C3080,Duc Bao Do,duc.do.bao14@example.com,Marketing Coordinator,2026-08-08,Tier 1,2026-08-10,2026-08-12,advanced,2026-08-23
+C3090,Nam Hoang Phan,nam.phan.hoang89@example.com,Backend Engineer,2026-08-08,Tier 2,2026-08-09,2026-08-13,advanced,2026-08-23
+C3092,Sang Van Dang,sang.dang.van83@example.com,Sales Executive,2026-08-08,Tier 2,2026-08-11,2026-08-13,advanced,2026-08-22
+C3100,Loan Gia Ngo,loan.ngo.gia75@example.com,Marketing Coordinator,2026-08-08,Tier 3,,,not_invited,2026-08-10
+C3113,Hieu Minh Do,hieu.do.minh89@example.com,Sales Executive,2026-08-08,Tier 3,,,not_invited,2026-08-09
+C3114,Sang Duc Tran,sang.tran.duc51@example.com,Marketing Coordinator,2026-08-08,Tier 3,2026-08-10,2026-08-11,rejected,2026-08-20
+C3115,Mai Minh Ly,mai.ly.minh76@example.com,Backend Engineer,2026-08-08,Tier 1,2026-08-10,2026-08-11,withdrew,2026-08-15
+C3058,Dung Van Dang,dung.dang.van22@example.com,Backend Engineer,2026-08-09,Tier 1,2026-08-11,2026-08-15,rejected,2026-08-27
+C3062,Yen Thu Truong,yen.truong.thu85@example.com,Customer Success Associate,2026-08-09,Tier 2,2026-08-10,,no_answers_received,2026-08-22
+C3068,Phuc Hoang Vu,phuc.vu.hoang78@example.com,Backend Engineer,2026-08-09,Tier 3,,,not_invited,2026-08-12
+C3070,Thanh Thi Vu,thanh.vu.thi22@example.com,Customer Success Associate,2026-08-09,Tier 2,2026-08-12,2026-08-14,advanced,2026-08-25
+C3078,Phuc Minh Do,phuc.do.minh21@example.com,Customer Success Associate,2026-08-09,Tier 1,2026-08-12,2026-08-14,rejected,2026-08-22
+C3102,Loan Van Dang,loan.dang.van64@example.com,Customer Success Associate,2026-08-09,Tier 1,2026-08-10,2026-08-12,rejected,2026-08-18
+C3116,Ha Van Pham,ha.pham.van15@example.com,Finance Analyst,2026-08-09,Tier 2,2026-08-11,2026-08-12,rejected,2026-08-21
+C3125,Yen Minh Do,yen.do.minh62@example.com,Finance Analyst,2026-08-10,Tier 2,2026-08-11,,no_answers_received,2026-08-18
+C3135,Giang Ngoc Do,giang.do.ngoc67@example.com,Sales Executive,2026-08-10,Tier 3,2026-08-11,2026-08-15,rejected,2026-08-22
+C3141,Thanh Ngoc Vo,thanh.vo.ngoc56@example.com,Customer Success Associate,2026-08-10,Tier 1,2026-08-12,2026-08-14,rejected,2026-08-22
+C3145,Hai Van Phan,hai.phan.van96@example.com,Finance Analyst,2026-08-10,Tier 2,2026-08-11,2026-08-13,advanced,2026-08-20
+C3161,Chi Bao Hoang,chi.hoang.bao42@example.com,Marketing Coordinator,2026-08-10,Tier 2,2026-08-11,2026-08-14,rejected,2026-08-21
+C3123,Trang Minh Huynh,trang.huynh.minh55@example.com,Marketing Coordinator,2026-08-11,Tier 3,,,not_invited,2026-08-13
+C3127,Hieu Minh Phan,hieu.phan.minh35@example.com,Finance Analyst,2026-08-11,Tier 2,2026-08-14,2026-08-17,rejected,2026-08-29
+C3131,Thao Thu Ngo,thao.ngo.thu37@example.com,Customer Success Associate,2026-08-11,Tier 2,2026-08-14,2026-08-15,rejected,2026-08-24
+C3134,Khanh Hoang Hoang,khanh.hoang.hoang27@example.com,Customer Success Associate,2026-08-11,Tier 2,2026-08-14,2026-08-16,rejected,2026-08-27
+C3147,Ha Hoang Le,ha.le.hoang68@example.com,Customer Success Associate,2026-08-11,Tier 2,2026-08-12,2026-08-16,advanced,2026-08-29
+C3150,Mai Bao Do,mai.do.bao66@example.com,Marketing Coordinator,2026-08-11,Tier 2,2026-08-13,2026-08-16,rejected,2026-08-25
+C3168,Tuan Thu Tran,tuan.tran.thu41@example.com,Backend Engineer,2026-08-11,Tier 3,,,not_invited,2026-08-12
+C3173,Thao Van Huynh,thao.huynh.van71@example.com,Finance Analyst,2026-08-11,Tier 3,,,not_invited,2026-08-14
+C3174,Trang Ngoc Ly,trang.ly.ngoc62@example.com,Sales Executive,2026-08-11,Tier 3,,,not_invited,2026-08-14
+C3128,Chi Ngoc Ngo,chi.ngo.ngoc40@example.com,Customer Success Associate,2026-08-12,Tier 1,2026-08-13,2026-08-17,rejected,2026-08-28
+C3138,Phuong Van Nguyen,phuong.nguyen.van55@example.com,Sales Executive,2026-08-12,Tier 1,2026-08-14,2026-08-18,rejected,2026-08-30
+C3142,Loan Duc Phan,loan.phan.duc53@example.com,Backend Engineer,2026-08-12,Tier 2,2026-08-15,2026-08-19,rejected,2026-08-28
+C3152,Bao Bao Vo,bao.vo.bao24@example.com,Backend Engineer,2026-08-12,Tier 2,2026-08-14,2026-08-16,rejected,2026-08-28
+C3157,Mai Minh Phan,mai.phan.minh96@example.com,Sales Executive,2026-08-12,Tier 2,2026-08-14,2026-08-17,rejected,2026-08-25
+C3158,An Thu Bui,an.bui.thu59@example.com,Marketing Coordinator,2026-08-12,Tier 2,2026-08-14,,no_answers_received,2026-08-21
+C3162,Ngoc Hoang Hoang,ngoc.hoang.hoang84@example.com,Sales Executive,2026-08-12,Tier 2,2026-08-15,2026-08-16,rejected,2026-08-23
+C3165,Trang Bao Le,trang.le.bao30@example.com,Finance Analyst,2026-08-12,Tier 2,2026-08-14,,no_answers_received,2026-08-20
+C3170,Trang Bao Pham,trang.pham.bao27@example.com,Backend Engineer,2026-08-12,Tier 2,2026-08-15,2026-08-19,advanced,2026-08-29
+C3136,Vy Bao Huynh,vy.huynh.bao52@example.com,Marketing Coordinator,2026-08-13,Tier 2,2026-08-14,2026-08-15,rejected,2026-08-26
+C3143,Hai Gia Truong,hai.truong.gia12@example.com,Customer Success Associate,2026-08-13,Tier 2,2026-08-16,2026-08-20,advanced,2026-08-27
+C3151,Chi Hoang Vo,chi.vo.hoang44@example.com,Marketing Coordinator,2026-08-13,Tier 2,2026-08-15,,no_answers_received,2026-08-28
+C3155,Yen Gia Ly,yen.ly.gia35@example.com,Marketing Coordinator,2026-08-13,Tier 1,2026-08-15,2026-08-17,advanced,2026-08-23
+C3160,My Thi Ly,my.ly.thi64@example.com,Customer Success Associate,2026-08-13,Tier 2,2026-08-15,2026-08-18,rejected,2026-08-25
+C3163,Hieu Minh Dang,hieu.dang.minh39@example.com,Finance Analyst,2026-08-13,Tier 1,2026-08-14,2026-08-18,rejected,2026-08-26
+C3164,Trang Bao Dang,trang.dang.bao88@example.com,Sales Executive,2026-08-13,Tier 1,2026-08-16,2026-08-19,advanced,2026-08-25
+C3166,Thao Duc Truong,thao.truong.duc54@example.com,Customer Success Associate,2026-08-13,Tier 1,2026-08-15,2026-08-17,advanced,2026-08-28
+C3171,Nhi Ngoc Phan,nhi.phan.ngoc36@example.com,Finance Analyst,2026-08-13,Tier 2,2026-08-15,,no_answers_received,2026-08-28
+C3121,Linh Thu Hoang,linh.hoang.thu50@example.com,Customer Success Associate,2026-08-14,Tier 3,,,not_invited,2026-08-15
+C3124,Sang Minh Vo,sang.vo.minh52@example.com,Sales Executive,2026-08-14,Tier 1,2026-08-15,,no_answers_received,2026-08-27
+C3132,Ngoc Minh Ngo,ngoc.ngo.minh38@example.com,Marketing Coordinator,2026-08-14,Tier 2,2026-08-17,2026-08-20,advanced,2026-08-30
+C3137,Trang Kim Phan,trang.phan.kim53@example.com,Backend Engineer,2026-08-14,Tier 2,2026-08-17,2026-08-19,rejected,2026-08-27
+C3140,Nhi Van Dang,nhi.dang.van75@example.com,Sales Executive,2026-08-14,Tier 1,2026-08-15,2026-08-18,advanced,2026-08-30
+C3146,Hoa Minh Bui,hoa.bui.minh50@example.com,Backend Engineer,2026-08-14,Tier 1,2026-08-17,2026-08-21,withdrew,2026-08-24
+C3153,Linh Van Hoang,linh.hoang.van85@example.com,Backend Engineer,2026-08-14,Tier 2,2026-08-17,2026-08-20,advanced,2026-08-30
+C3169,Phuong Van Ly,phuong.ly.van74@example.com,Marketing Coordinator,2026-08-14,Tier 3,,,not_invited,2026-08-15
+C3172,Ngoc Minh Bui,ngoc.bui.minh96@example.com,Marketing Coordinator,2026-08-14,Tier 1,2026-08-15,2026-08-19,rejected,2026-08-27
+C3129,An Van Tran,an.tran.van75@example.com,Marketing Coordinator,2026-08-15,Tier 1,2026-08-17,2026-08-19,advanced,2026-08-28
+C3130,Duc Thi Tran,duc.tran.thi99@example.com,Sales Executive,2026-08-15,Tier 2,2026-08-16,2026-08-18,rejected,2026-08-25
+C3144,Khanh Kim Hoang,khanh.hoang.kim98@example.com,Marketing Coordinator,2026-08-15,Tier 1,2026-08-18,2026-08-20,withdrew,2026-08-23
+C3149,Vy Thu Le,vy.le.thu70@example.com,Sales Executive,2026-08-15,Tier 1,2026-08-17,2026-08-19,rejected,2026-08-27
+C3154,Tam Kim Huynh,tam.huynh.kim73@example.com,Backend Engineer,2026-08-15,Tier 2,2026-08-18,2026-08-21,rejected,2026-08-28
+C3120,Tuan Gia Ly,tuan.ly.gia36@example.com,Marketing Coordinator,2026-08-16,Tier 1,2026-08-19,2026-08-22,rejected,2026-09-03
+C3122,Sang Duc Vo,sang.vo.duc50@example.com,Finance Analyst,2026-08-16,Tier 2,2026-08-19,2026-08-22,advanced,2026-09-04
+C3126,Duc Bao Hoang,duc.hoang.bao65@example.com,Marketing Coordinator,2026-08-16,Tier 1,2026-08-17,2026-08-19,advanced,2026-09-01
+C3133,Thanh Gia Do,thanh.do.gia18@example.com,Marketing Coordinator,2026-08-16,Tier 3,,,not_invited,2026-08-17
+C3139,Khanh Minh Pham,khanh.pham.minh27@example.com,Finance Analyst,2026-08-16,Tier 1,2026-08-19,2026-08-22,advanced,2026-09-01
+C3148,Thao Thu Phan,thao.phan.thu86@example.com,Marketing Coordinator,2026-08-16,Tier 2,2026-08-18,2026-08-20,rejected,2026-08-28
+C3156,Thao Gia Vu,thao.vu.gia28@example.com,Marketing Coordinator,2026-08-16,Tier 2,2026-08-19,2026-08-20,advanced,2026-08-29
+C3159,Tam Thu Ngo,tam.ngo.thu11@example.com,Marketing Coordinator,2026-08-16,Tier 3,,,not_invited,2026-08-18
+C3167,Loan Thi Vo,loan.vo.thi51@example.com,Backend Engineer,2026-08-16,Tier 3,,,not_invited,2026-08-17
+C3180,Vy Minh Le,vy.le.minh65@example.com,Backend Engineer,2026-08-17,Tier 3,2026-08-18,2026-08-21,advanced,2026-08-27
+C3186,Hai Bao Ngo,hai.ngo.bao95@example.com,Backend Engineer,2026-08-17,Tier 2,2026-08-19,,no_answers_received,2026-08-26
+C3190,Kiet Minh Nguyen,kiet.nguyen.minh24@example.com,Finance Analyst,2026-08-17,Tier 3,,,not_invited,2026-08-18
+C3193,Dung Minh Ngo,dung.ngo.minh45@example.com,Marketing Coordinator,2026-08-17,Tier 2,2026-08-19,2026-08-23,rejected,2026-08-28
+C3203,Trang Gia Le,trang.le.gia30@example.com,Customer Success Associate,2026-08-17,Tier 2,2026-08-18,,no_answers_received,2026-08-30
+C3215,Vy Kim Dang,vy.dang.kim17@example.com,Sales Executive,2026-08-17,Tier 3,,,not_invited,2026-08-20
+C3217,Nhi Minh Phan,nhi.phan.minh72@example.com,Customer Success Associate,2026-08-17,Tier 2,2026-08-19,2026-08-23,rejected,2026-08-31
+C3220,Bao Kim Nguyen,bao.nguyen.kim40@example.com,Sales Executive,2026-08-17,Tier 3,2026-08-20,2026-08-21,rejected,2026-09-02
+C3230,Dung Kim Vu,dung.vu.kim66@example.com,Customer Success Associate,2026-08-17,Tier 1,2026-08-20,2026-08-21,rejected,2026-08-28
+C3175,Hai Hoang Vo,hai.vo.hoang25@example.com,Backend Engineer,2026-08-18,Tier 1,2026-08-21,,no_answers_received,2026-08-29
+C3192,Nam Gia Nguyen,nam.nguyen.gia42@example.com,Customer Success Associate,2026-08-18,Tier 3,,,not_invited,2026-08-19
+C3195,Hai Van Tran,hai.tran.van59@example.com,Sales Executive,2026-08-18,Tier 2,2026-08-20,,no_answers_received,2026-08-27
+C3200,Phuc Hoang Vo,phuc.vo.hoang74@example.com,Backend Engineer,2026-08-18,Tier 2,2026-08-20,2026-08-21,rejected,2026-08-30
+C3206,Dung Duc Le,dung.le.duc16@example.com,Marketing Coordinator,2026-08-18,Tier 2,2026-08-20,,no_answers_received,2026-08-28
+C3207,Thanh Thu Ngo,thanh.ngo.thu83@example.com,Sales Executive,2026-08-18,Tier 1,2026-08-21,2026-08-22,withdrew,2026-08-27
+C3209,Mai Gia Ngo,mai.ngo.gia12@example.com,Finance Analyst,2026-08-18,Tier 1,2026-08-21,2026-08-22,rejected,2026-09-03
+C3226,Khanh Duc Phan,khanh.phan.duc59@example.com,Marketing Coordinator,2026-08-18,Tier 3,,,not_invited,2026-08-21
+C3176,Ngoc Thu Huynh,ngoc.huynh.thu87@example.com,Sales Executive,2026-08-19,Tier 2,2026-08-20,,no_answers_received,2026-08-27
+C3179,Loan Minh Truong,loan.truong.minh55@example.com,Customer Success Associate,2026-08-19,Tier 3,,,not_invited,2026-08-21
+C3181,My Minh Vu,my.vu.minh47@example.com,Backend Engineer,2026-08-19,Tier 3,,,not_invited,2026-08-22
+C3184,Sang Thu Bui,sang.bui.thu80@example.com,Sales Executive,2026-08-19,Tier 3,,,not_invited,2026-08-22
+C3197,Mai Thi Vu,mai.vu.thi59@example.com,Customer Success Associate,2026-08-19,Tier 1,2026-08-20,,no_answers_received,2026-08-30
+C3208,Mai Kim Le,mai.le.kim92@example.com,Marketing Coordinator,2026-08-19,Tier 3,2026-08-22,2026-08-26,advanced,2026-09-01
+C3222,Nam Thi Ngo,nam.ngo.thi81@example.com,Marketing Coordinator,2026-08-19,Tier 2,2026-08-20,2026-08-24,rejected,2026-08-29
+C3223,Tam Kim Vo,tam.vo.kim78@example.com,Sales Executive,2026-08-19,Tier 3,,,not_invited,2026-08-22
+C3177,Khanh Thi Vu,khanh.vu.thi77@example.com,Customer Success Associate,2026-08-20,Tier 3,,,not_invited,2026-08-21
+C3187,Ngoc Gia Ngo,ngoc.ngo.gia86@example.com,Finance Analyst,2026-08-20,Tier 1,2026-08-23,2026-08-26,rejected,2026-09-03
+C3194,Dung Minh Vo,dung.vo.minh84@example.com,Finance Analyst,2026-08-20,Tier 2,2026-08-22,2026-08-24,advanced,2026-09-03
+C3196,Yen Thi Hoang,yen.hoang.thi43@example.com,Marketing Coordinator,2026-08-20,Tier 1,2026-08-21,2026-08-22,rejected,2026-08-30
+C3198,Vy Kim Ngo,vy.ngo.kim41@example.com,Sales Executive,2026-08-20,Tier 2,2026-08-23,2026-08-24,advanced,2026-08-29
+C3202,Quang Duc Hoang,quang.hoang.duc18@example.com,Marketing Coordinator,2026-08-20,Tier 2,2026-08-23,2026-08-26,advanced,2026-09-06
+C3204,Thao Duc Do,thao.do.duc49@example.com,Backend Engineer,2026-08-20,Tier 2,2026-08-21,2026-08-25,withdrew,2026-08-30
+C3218,Nam Van Le,nam.le.van59@example.com,Backend Engineer,2026-08-20,Tier 2,2026-08-21,2026-08-25,advanced,2026-09-04
+C3221,Phuc Van Ly,phuc.ly.van92@example.com,Customer Success Associate,2026-08-20,Tier 2,2026-08-22,2026-08-25,rejected,2026-09-03
+C3229,Chi Duc Hoang,chi.hoang.duc66@example.com,Marketing Coordinator,2026-08-20,Tier 1,2026-08-22,2026-08-25,advanced,2026-09-02
+C3183,Hieu Van Bui,hieu.bui.van65@example.com,Sales Executive,2026-08-21,Tier 2,2026-08-24,2026-08-25,rejected,2026-09-01
+C3189,Bao Duc Ngo,bao.ngo.duc58@example.com,Customer Success Associate,2026-08-21,Tier 1,2026-08-22,2026-08-26,rejected,2026-09-04
+C3205,Hoa Thi Nguyen,hoa.nguyen.thi23@example.com,Sales Executive,2026-08-21,Tier 3,,,not_invited,2026-08-23
+C3213,Vy Hoang Phan,vy.phan.hoang86@example.com,Backend Engineer,2026-08-21,Tier 2,2026-08-23,2026-08-24,rejected,2026-09-06
+C3224,Nhi Gia Ly,nhi.ly.gia21@example.com,Finance Analyst,2026-08-21,Tier 1,2026-08-24,,no_answers_received,2026-09-01
+C3232,Ngoc Ngoc Vu,ngoc.vu.ngoc81@example.com,Sales Executive,2026-08-21,Tier 2,2026-08-24,2026-08-25,advanced,2026-09-04
+C3234,Dung Kim Pham,dung.pham.kim12@example.com,Marketing Coordinator,2026-08-21,Tier 2,2026-08-24,2026-08-25,advanced,2026-09-04
+C3178,Nhi Thi Tran,nhi.tran.thi58@example.com,Finance Analyst,2026-08-22,Tier 3,,,not_invited,2026-08-24
+C3188,An Thi Ngo,an.ngo.thi94@example.com,Customer Success Associate,2026-08-22,Tier 1,2026-08-25,,no_answers_received,2026-09-05
+C3191,Kiet Kim Nguyen,kiet.nguyen.kim47@example.com,Finance Analyst,2026-08-22,Tier 3,,,not_invited,2026-08-24
+C3199,Thanh Kim Hoang,thanh.hoang.kim19@example.com,Backend Engineer,2026-08-22,Tier 2,2026-08-25,2026-08-27,withdrew,2026-09-03
+C3211,Vy Van Vu,vy.vu.van13@example.com,Marketing Coordinator,2026-08-22,Tier 1,2026-08-23,2026-08-26,rejected,2026-08-31
+C3212,Nam Hoang Bui,nam.bui.hoang18@example.com,Sales Executive,2026-08-22,Tier 2,2026-08-25,2026-08-26,advanced,2026-09-02
+C3182,Bao Ngoc Le,bao.le.ngoc86@example.com,Marketing Coordinator,2026-08-23,Tier 1,2026-08-25,2026-08-28,rejected,2026-09-07
+C3185,Quang Gia Vo,quang.vo.gia92@example.com,Customer Success Associate,2026-08-23,Tier 2,2026-08-26,2026-08-28,advanced,2026-09-07
+C3201,Tam Hoang Hoang,tam.hoang.hoang97@example.com,Marketing Coordinator,2026-08-23,Tier 3,,,not_invited,2026-08-26
+C3210,Khanh Minh Dang,khanh.dang.minh36@example.com,Sales Executive,2026-08-23,Tier 2,2026-08-25,2026-08-28,rejected,2026-09-05
+C3214,Ngoc Gia Hoang,ngoc.hoang.gia86@example.com,Customer Success Associate,2026-08-23,Tier 2,2026-08-26,2026-08-30,advanced,2026-09-08
+C3216,Giang Thu Pham,giang.pham.thu27@example.com,Backend Engineer,2026-08-23,Tier 3,2026-08-25,2026-08-29,advanced,2026-09-08
+C3219,Kiet Thu Bui,kiet.bui.thu68@example.com,Backend Engineer,2026-08-23,Tier 2,2026-08-26,2026-08-27,advanced,2026-09-06
+C3225,Hai Van Nguyen,hai.nguyen.van18@example.com,Customer Success Associate,2026-08-23,Tier 3,,,not_invited,2026-08-24
+C3227,Mai Gia Pham,mai.pham.gia61@example.com,Customer Success Associate,2026-08-23,Tier 2,2026-08-25,2026-08-26,advanced,2026-09-02
+C3228,Nhi Minh Tran,nhi.tran.minh15@example.com,Customer Success Associate,2026-08-23,Tier 1,2026-08-25,2026-08-28,advanced,2026-09-06
+C3231,Mai Minh Bui,mai.bui.minh38@example.com,Sales Executive,2026-08-23,Tier 3,2026-08-26,,no_answers_received,2026-09-06
+C3233,Tam Duc Ly,tam.ly.duc85@example.com,Backend Engineer,2026-08-23,Tier 2,2026-08-25,2026-08-26,rejected,2026-09-02
+C3242,Dung Thu Bui,dung.bui.thu33@example.com,Backend Engineer,2026-08-24,Tier 1,2026-08-25,2026-08-28,withdrew,2026-08-31
+C3243,Ngoc Kim Do,ngoc.do.kim53@example.com,Marketing Coordinator,2026-08-24,Tier 3,,,not_invited,2026-08-27
+C3247,An Thu Do,an.do.thu79@example.com,Finance Analyst,2026-08-24,Tier 1,2026-08-26,2026-08-30,advanced,2026-09-10
+C3252,Nam Van Vu,nam.vu.van17@example.com,Marketing Coordinator,2026-08-24,Tier 2,2026-08-26,2026-08-27,rejected,2026-09-04
+C3255,An Gia Dang,an.dang.gia15@example.com,Finance Analyst,2026-08-24,Tier 3,2026-08-27,2026-08-28,advanced,2026-09-07
+C3259,Chi Van Ly,chi.ly.van99@example.com,Finance Analyst,2026-08-24,Tier 3,,,not_invited,2026-08-25
+C3264,Quang Kim Truong,quang.truong.kim70@example.com,Customer Success Associate,2026-08-24,Tier 3,2026-08-26,2026-08-28,advanced,2026-09-06
+C3265,Quang Duc Truong,quang.truong.duc10@example.com,Customer Success Associate,2026-08-24,Tier 2,2026-08-26,2026-08-27,advanced,2026-09-04
+C3275,Ngoc Gia Dang,ngoc.dang.gia85@example.com,Sales Executive,2026-08-24,Tier 2,2026-08-27,2026-08-28,rejected,2026-09-09
+C3286,Bao Van Dang,bao.dang.van22@example.com,Backend Engineer,2026-08-24,Tier 3,,,not_invited,2026-08-25
+C3288,Dung Thu Tran,dung.tran.thu53@example.com,Sales Executive,2026-08-24,Tier 2,2026-08-26,2026-08-29,advanced,2026-09-10
+C3289,Hieu Minh Le,hieu.le.minh84@example.com,Customer Success Associate,2026-08-24,Tier 1,2026-08-25,,no_answers_received,2026-08-31
+C3292,Vy Minh Nguyen,vy.nguyen.minh95@example.com,Backend Engineer,2026-08-24,Tier 3,,,not_invited,2026-08-27
+C3293,Tuan Bao Nguyen,tuan.nguyen.bao16@example.com,Backend Engineer,2026-08-24,Tier 2,2026-08-26,2026-08-27,advanced,2026-09-03
+C3236,Duc Gia Le,duc.le.gia74@example.com,Backend Engineer,2026-08-25,Tier 1,2026-08-27,2026-08-29,rejected,2026-09-05
+C3246,Nhi Van Bui,nhi.bui.van72@example.com,Marketing Coordinator,2026-08-25,Tier 1,2026-08-28,,no_answers_received,2026-09-03
+C3253,Quang Van Pham,quang.pham.van81@example.com,Marketing Coordinator,2026-08-25,Tier 3,,,not_invited,2026-08-28
+C3262,Hoa Thu Huynh,hoa.huynh.thu47@example.com,Finance Analyst,2026-08-25,Tier 3,2026-08-27,2026-08-29,rejected,2026-09-09
+C3282,Ha Bao Vo,ha.vo.bao31@example.com,Backend Engineer,2026-08-25,Tier 2,2026-08-27,,no_answers_received,2026-09-07
+C3285,Phuong Van Hoang,phuong.hoang.van90@example.com,Marketing Coordinator,2026-08-25,Tier 2,2026-08-27,2026-08-29,advanced,2026-09-06
+C3290,Tuan Van Nguyen,tuan.nguyen.van28@example.com,Sales Executive,2026-08-25,Tier 2,2026-08-28,2026-09-01,rejected,2026-09-08
+C3251,Phuc Hoang Tran,phuc.tran.hoang94@example.com,Marketing Coordinator,2026-08-26,Tier 3,,,not_invited,2026-08-27
+C3256,Mai Ngoc Nguyen,mai.nguyen.ngoc66@example.com,Marketing Coordinator,2026-08-26,Tier 2,2026-08-29,2026-08-30,rejected,2026-09-11
+C3258,Bao Thu Bui,bao.bui.thu24@example.com,Customer Success Associate,2026-08-26,Tier 2,2026-08-27,2026-08-31,rejected,2026-09-13
+C3266,Phuong Duc Hoang,phuong.hoang.duc28@example.com,Sales Executive,2026-08-26,Tier 1,2026-08-29,2026-09-02,rejected,2026-09-12
+C3269,Thanh Duc Vu,thanh.vu.duc26@example.com,Backend Engineer,2026-08-26,Tier 3,,,not_invited,2026-08-28
+C3284,Tam Thu Vo,tam.vo.thu42@example.com,Sales Executive,2026-08-26,Tier 2,2026-08-28,2026-08-31,rejected,2026-09-08
+C3235,Mai Hoang Bui,mai.bui.hoang78@example.com,Marketing Coordinator,2026-08-27,Tier 2,2026-08-29,,no_answers_received,2026-09-09
+C3238,Phuc Thu Pham,phuc.pham.thu50@example.com,Marketing Coordinator,2026-08-27,Tier 1,2026-08-29,2026-09-02,withdrew,2026-09-07
+C3245,Nhi Minh Hoang,nhi.hoang.minh11@example.com,Marketing Coordinator,2026-08-27,Tier 2,2026-08-28,2026-09-01,advanced,2026-09-08
+C3250,Sang Ngoc Tran,sang.tran.ngoc95@example.com,Marketing Coordinator,2026-08-27,Tier 3,,,not_invited,2026-08-30
+C3260,Dung Duc Phan,dung.phan.duc51@example.com,Sales Executive,2026-08-27,Tier 2,2026-08-28,2026-08-30,advanced,2026-09-10
+C3268,Ngoc Bao Tran,ngoc.tran.bao82@example.com,Backend Engineer,2026-08-27,Tier 2,2026-08-28,2026-09-01,advanced,2026-09-10
+C3270,Ngoc Duc Phan,ngoc.phan.duc56@example.com,Backend Engineer,2026-08-27,Tier 1,2026-08-30,2026-08-31,rejected,2026-09-04
+C3274,Tam Minh Phan,tam.phan.minh26@example.com,Sales Executive,2026-08-27,Tier 2,2026-08-30,,no_answers_received,2026-09-11
+C3278,Tam Hoang Tran,tam.tran.hoang91@example.com,Marketing Coordinator,2026-08-27,Tier 3,,,not_invited,2026-08-28
+C3244,Phuong Kim Pham,phuong.pham.kim31@example.com,Customer Success Associate,2026-08-28,Tier 2,2026-08-30,2026-08-31,rejected,2026-09-08
+C3254,Hoa Thu Nguyen,hoa.nguyen.thu78@example.com,Finance Analyst,2026-08-28,Tier 1,2026-08-31,,no_answers_received,2026-09-12
+C3257,Chi Duc Vo,chi.vo.duc60@example.com,Finance Analyst,2026-08-28,Tier 1,2026-08-29,2026-08-31,withdrew,2026-09-04
+C3261,Thanh Duc Pham,thanh.pham.duc62@example.com,Sales Executive,2026-08-28,Tier 3,,,not_invited,2026-08-31
+C3267,Hoa Thi Le,hoa.le.thi83@example.com,Sales Executive,2026-08-28,Tier 3,,,not_invited,2026-08-31
+C3272,Phuong Van Vo,phuong.vo.van68@example.com,Customer Success Associate,2026-08-28,Tier 3,,,not_invited,2026-08-29
+C3273,Thao Gia Phan,thao.phan.gia24@example.com,Sales Executive,2026-08-28,Tier 3,,,not_invited,2026-08-29
+C3277,Hoa Ngoc Phan,hoa.phan.ngoc69@example.com,Customer Success Associate,2026-08-28,Tier 3,,,not_invited,2026-08-30
+C3239,Hoa Minh Vu,hoa.vu.minh37@example.com,Customer Success Associate,2026-08-29,Tier 3,2026-08-30,,no_answers_received,2026-09-05
+C3248,Phuc Van Ngo,phuc.ngo.van54@example.com,Customer Success Associate,2026-08-29,Tier 3,,,not_invited,2026-09-01
+C3249,Tuan Gia Dang,tuan.dang.gia57@example.com,Sales Executive,2026-08-29,Tier 1,2026-08-30,2026-09-03,rejected,2026-09-10
+C3276,Giang Kim Vu,giang.vu.kim50@example.com,Marketing Coordinator,2026-08-29,Tier 2,2026-09-01,2026-09-04,rejected,2026-09-10
+C3280,Phuc Kim Ly,phuc.ly.kim15@example.com,Sales Executive,2026-08-29,Tier 1,2026-08-30,2026-09-02,rejected,2026-09-08
+C3287,Nhi Van Vu,nhi.vu.van14@example.com,Finance Analyst,2026-08-29,Tier 3,,,not_invited,2026-09-01
+C3291,Duc Ngoc Huynh,duc.huynh.ngoc89@example.com,Customer Success Associate,2026-08-29,Tier 2,2026-08-31,2026-09-04,rejected,2026-09-11
+C3237,Loan Van Huynh,loan.huynh.van11@example.com,Backend Engineer,2026-08-30,Tier 2,2026-09-02,2026-09-04,advanced,2026-09-13
+C3240,Hai Duc Hoang,hai.hoang.duc79@example.com,Finance Analyst,2026-08-30,Tier 2,2026-09-01,2026-09-04,advanced,2026-09-16
+C3241,Thanh Hoang Do,thanh.do.hoang32@example.com,Finance Analyst,2026-08-30,Tier 2,2026-09-01,2026-09-04,rejected,2026-09-11
+C3263,Sang Hoang Bui,sang.bui.hoang82@example.com,Backend Engineer,2026-08-30,Tier 2,2026-09-01,2026-09-04,rejected,2026-09-12
+C3271,Chi Hoang Huynh,chi.huynh.hoang45@example.com,Backend Engineer,2026-08-30,Tier 3,2026-08-31,2026-09-03,advanced,2026-09-12
+C3279,Thanh Minh Le,thanh.le.minh57@example.com,Marketing Coordinator,2026-08-30,Tier 1,2026-08-31,2026-09-04,rejected,2026-09-11
+C3281,Dung Thu Hoang,dung.hoang.thu34@example.com,Marketing Coordinator,2026-08-30,Tier 2,2026-08-31,2026-09-03,advanced,2026-09-15
+C3283,Vy Bao Phan,vy.phan.bao76@example.com,Backend Engineer,2026-08-30,Tier 3,,,not_invited,2026-09-02
+C3296,Ngoc Ngoc Pham,ngoc.pham.ngoc27@example.com,Finance Analyst,2026-08-31,Tier 2,2026-09-01,2026-09-05,rejected,2026-09-17
+C3298,My Ngoc Vo,my.vo.ngoc95@example.com,Backend Engineer,2026-08-31,Tier 1,2026-09-02,2026-09-03,advanced,2026-09-11
+C3321,Quang Thu Vo,quang.vo.thu56@example.com,Customer Success Associate,2026-08-31,Tier 1,2026-09-03,2026-09-04,withdrew,2026-09-11
+C3329,Dung Minh Huynh,dung.huynh.minh24@example.com,Marketing Coordinator,2026-08-31,Tier 2,2026-09-01,,no_answers_received,2026-09-14
+C3330,Hai Duc Vo,hai.vo.duc49@example.com,Finance Analyst,2026-08-31,Tier 1,2026-09-03,2026-09-04,rejected,2026-09-13
+C3341,Linh Bao Nguyen,linh.nguyen.bao85@example.com,Finance Analyst,2026-08-31,Tier 2,2026-09-02,2026-09-06,rejected,2026-09-14
+C3343,Thanh Minh Nguyen,thanh.nguyen.minh41@example.com,Sales Executive,2026-08-31,Tier 2,2026-09-02,,no_answers_received,2026-09-13
+C3347,Khanh Gia Ngo,khanh.ngo.gia99@example.com,Backend Engineer,2026-08-31,Tier 2,2026-09-01,2026-09-02,advanced,2026-09-11
+C3350,Phuc Minh Ly,phuc.ly.minh37@example.com,Backend Engineer,2026-08-31,Tier 2,2026-09-02,2026-09-06,advanced,2026-09-15
+C3302,Nhi Kim Tran,nhi.tran.kim77@example.com,Finance Analyst,2026-09-01,Tier 3,,,not_invited,2026-09-02
+C3308,Phuong Bao Nguyen,phuong.nguyen.bao14@example.com,Marketing Coordinator,2026-09-01,Tier 2,2026-09-04,2026-09-05,rejected,2026-09-12
+C3334,Tuan Thi Do,tuan.do.thi22@example.com,Customer Success Associate,2026-09-01,Tier 1,2026-09-03,,no_answers_received,2026-09-15
+C3337,Bao Thi Huynh,bao.huynh.thi89@example.com,Finance Analyst,2026-09-01,Tier 1,2026-09-03,2026-09-04,advanced,2026-09-13
+C3342,Loan Duc Huynh,loan.huynh.duc36@example.com,Backend Engineer,2026-09-01,Tier 3,,,not_invited,2026-09-02
+C3349,Hoa Kim Vu,hoa.vu.kim30@example.com,Customer Success Associate,2026-09-01,Tier 2,2026-09-03,,no_answers_received,2026-09-09
+C3295,Loan Thi Nguyen,loan.nguyen.thi52@example.com,Marketing Coordinator,2026-09-02,Tier 1,2026-09-04,2026-09-06,rejected,2026-09-19
+C3300,Thao Bao Nguyen,thao.nguyen.bao49@example.com,Sales Executive,2026-09-02,Tier 3,,,not_invited,2026-09-03
+C3309,Giang Duc Truong,giang.truong.duc41@example.com,Marketing Coordinator,2026-09-02,Tier 2,2026-09-04,2026-09-05,rejected,2026-09-16
+C3312,Ha Minh Tran,ha.tran.minh70@example.com,Customer Success Associate,2026-09-02,Tier 3,,,not_invited,2026-09-04
+C3315,Nhi Kim Hoang,nhi.hoang.kim78@example.com,Sales Executive,2026-09-02,Tier 2,2026-09-04,2026-09-07,rejected,2026-09-16
+C3318,Vy Thi Le,vy.le.thi33@example.com,Sales Executive,2026-09-02,Tier 1,2026-09-05,2026-09-06,rejected,2026-09-18
+C3319,Hai Ngoc Pham,hai.pham.ngoc30@example.com,Marketing Coordinator,2026-09-02,Tier 1,2026-09-05,2026-09-08,withdrew,2026-09-17
+C3322,Sang Minh Nguyen,sang.nguyen.minh23@example.com,Backend Engineer,2026-09-02,Tier 2,2026-09-04,,no_answers_received,2026-09-11
+C3331,Hoa Duc Truong,hoa.truong.duc19@example.com,Customer Success Associate,2026-09-02,Tier 3,,,not_invited,2026-09-05
+C3338,Phuc Hoang Do,phuc.do.hoang90@example.com,Customer Success Associate,2026-09-02,Tier 3,,,not_invited,2026-09-04
+C3345,Ngoc Thu Do,ngoc.do.thu19@example.com,Sales Executive,2026-09-02,Tier 3,,,not_invited,2026-09-03
+C3348,Tuan Duc Bui,tuan.bui.duc92@example.com,Backend Engineer,2026-09-02,Tier 2,2026-09-03,2026-09-07,rejected,2026-09-16
+C3304,Nam Van Hoang,nam.hoang.van43@example.com,Sales Executive,2026-09-03,Tier 3,,,not_invited,2026-09-04
+C3316,Dung Ngoc Truong,dung.truong.ngoc74@example.com,Backend Engineer,2026-09-03,Tier 3,,,not_invited,2026-09-05
+C3327,Yen Bao Phan,yen.phan.bao13@example.com,Backend Engineer,2026-09-03,Tier 2,2026-09-04,2026-09-06,rejected,2026-09-13
+C3332,Ha Van Vu,ha.vu.van59@example.com,Finance Analyst,2026-09-03,Tier 2,2026-09-05,2026-09-06,advanced,2026-09-15
+C3333,Quang Thu Huynh,quang.huynh.thu19@example.com,Finance Analyst,2026-09-03,Tier 2,2026-09-05,2026-09-06,rejected,2026-09-17
+C3346,Tuan Duc Truong,tuan.truong.duc24@example.com,Customer Success Associate,2026-09-03,Tier 2,2026-09-06,2026-09-10,awaiting_decision,
+C3353,Tam Thi Pham,tam.pham.thi39@example.com,Finance Analyst,2026-09-03,Tier 1,2026-09-06,,no_answers_received,2026-09-13
+C3294,An Hoang Do,an.do.hoang87@example.com,Backend Engineer,2026-09-04,Tier 1,2026-09-06,2026-09-09,rejected,2026-09-16
+C3299,Hoa Ngoc Huynh,hoa.huynh.ngoc18@example.com,Sales Executive,2026-09-04,Tier 3,,,not_invited,2026-09-06
+C3301,Ha Gia Le,ha.le.gia28@example.com,Marketing Coordinator,2026-09-04,Tier 2,2026-09-05,2026-09-09,advanced,2026-09-17
+C3307,Duc Thu Ly,duc.ly.thu38@example.com,Marketing Coordinator,2026-09-04,Tier 2,2026-09-05,2026-09-09,advanced,2026-09-18
+C3314,Kiet Gia Pham,kiet.pham.gia97@example.com,Backend Engineer,2026-09-04,Tier 1,2026-09-06,2026-09-09,withdrew,2026-09-12
+C3325,Nam Thu Nguyen,nam.nguyen.thu43@example.com,Finance Analyst,2026-09-04,Tier 3,,,not_invited,2026-09-05
+C3351,Sang Hoang Phan,sang.phan.hoang83@example.com,Backend Engineer,2026-09-04,Tier 2,2026-09-06,2026-09-10,awaiting_decision,
+C3297,Thao Thi Vu,thao.vu.thi86@example.com,Backend Engineer,2026-09-05,Tier 1,2026-09-07,2026-09-10,advanced,2026-09-17
+C3303,Hoa Bao Truong,hoa.truong.bao12@example.com,Customer Success Associate,2026-09-05,Tier 1,2026-09-06,2026-09-09,rejected,2026-09-18
+C3305,Chi Thu Truong,chi.truong.thu16@example.com,Customer Success Associate,2026-09-05,Tier 2,2026-09-06,2026-09-07,rejected,2026-09-13
+C3306,Ngoc Duc Nguyen,ngoc.nguyen.duc33@example.com,Customer Success Associate,2026-09-05,Tier 1,2026-09-08,2026-09-10,advanced,2026-09-16
+C3310,Sang Bao Hoang,sang.hoang.bao17@example.com,Backend Engineer,2026-09-05,Tier 1,2026-09-08,2026-09-12,withdrew,2026-09-17
+C3311,Phuc Duc Le,phuc.le.duc74@example.com,Backend Engineer,2026-09-05,Tier 2,2026-09-08,2026-09-11,rejected,2026-09-20
+C3313,Tuan Minh Vo,tuan.vo.minh91@example.com,Backend Engineer,2026-09-05,Tier 2,2026-09-08,2026-09-11,awaiting_decision,
+C3317,Phuong Bao Vo,phuong.vo.bao98@example.com,Marketing Coordinator,2026-09-05,Tier 3,,,not_invited,2026-09-07
+C3320,Tam Bao Ngo,tam.ngo.bao73@example.com,Sales Executive,2026-09-05,Tier 2,2026-09-06,2026-09-08,advanced,2026-09-18
+C3324,Tam Gia Do,tam.do.gia97@example.com,Sales Executive,2026-09-05,Tier 2,2026-09-07,2026-09-11,rejected,2026-09-20
+C3326,Hai Thi Hoang,hai.hoang.thi40@example.com,Backend Engineer,2026-09-05,Tier 2,2026-09-08,2026-09-10,awaiting_decision,
+C3336,Phuc Bao Ngo,phuc.ngo.bao27@example.com,Customer Success Associate,2026-09-05,Tier 2,2026-09-08,2026-09-09,rejected,2026-09-18
+C3344,Linh Ngoc Do,linh.do.ngoc73@example.com,Finance Analyst,2026-09-05,Tier 2,2026-09-08,2026-09-09,rejected,2026-09-19
+C3323,Chi Hoang Vu,chi.vu.hoang67@example.com,Marketing Coordinator,2026-09-06,Tier 1,2026-09-08,2026-09-12,awaiting_decision,
+C3328,Thanh Gia Nguyen,thanh.nguyen.gia41@example.com,Sales Executive,2026-09-06,Tier 3,,,not_invited,2026-09-07
+C3335,Duc Hoang Truong,duc.truong.hoang93@example.com,Marketing Coordinator,2026-09-06,Tier 3,,,not_invited,2026-09-08
+C3339,Duc Kim Truong,duc.truong.kim67@example.com,Sales Executive,2026-09-06,Tier 2,2026-09-07,2026-09-10,rejected,2026-09-13
+C3340,Phuong Van Dang,phuong.dang.van42@example.com,Finance Analyst,2026-09-06,Tier 2,2026-09-07,2026-09-10,withdrew,2026-09-15
+C3352,Giang Thu Ngo,giang.ngo.thu22@example.com,Customer Success Associate,2026-09-06,Tier 2,2026-09-07,,no_answers_received,2026-09-16
+C3363,Hieu Kim Huynh,hieu.huynh.kim92@example.com,Backend Engineer,2026-09-07,Tier 1,2026-09-10,,no_answers_received,2026-09-19
+C3364,Yen Bao Tran,yen.tran.bao75@example.com,Customer Success Associate,2026-09-07,Tier 2,2026-09-08,2026-09-12,advanced,2026-09-16
+C3366,Linh Kim Bui,linh.bui.kim43@example.com,Marketing Coordinator,2026-09-07,Tier 2,2026-09-09,2026-09-13,awaiting_decision,
+C3371,Mai Minh Vo,mai.vo.minh58@example.com,Marketing Coordinator,2026-09-07,Tier 1,2026-09-08,2026-09-10,rejected,2026-09-15
+C3377,Chi Thi Ly,chi.ly.thi51@example.com,Customer Success Associate,2026-09-07,Tier 3,,,not_invited,2026-09-10
+C3385,Linh Minh Phan,linh.phan.minh69@example.com,Sales Executive,2026-09-07,Tier 1,2026-09-09,2026-09-12,awaiting_decision,
+C3390,Sang Thi Tran,sang.tran.thi26@example.com,Sales Executive,2026-09-07,Tier 3,,,not_invited,2026-09-09
+C3394,Bao Ngoc Vo,bao.vo.ngoc15@example.com,Customer Success Associate,2026-09-07,Tier 1,2026-09-10,,no_answers_received,2026-09-20
+C3401,My Thu Vu,my.vu.thu26@example.com,Sales Executive,2026-09-07,Tier 2,2026-09-10,2026-09-13,awaiting_decision,
+C3404,Khanh Ngoc Tran,khanh.tran.ngoc54@example.com,Marketing Coordinator,2026-09-07,Tier 3,,,not_invited,2026-09-10
+C3411,Ha Gia Huynh,ha.huynh.gia52@example.com,Sales Executive,2026-09-07,Tier 3,,,not_invited,2026-09-08
+C3415,Duc Thu Hoang,duc.hoang.thu33@example.com,Sales Executive,2026-09-07,Tier 3,,,not_invited,2026-09-09
+C3357,Khanh Minh Do,khanh.do.minh11@example.com,Sales Executive,2026-09-08,Tier 2,2026-09-10,2026-09-14,awaiting_decision,
+C3370,Hieu Thi Ngo,hieu.ngo.thi62@example.com,Sales Executive,2026-09-08,Tier 3,,,not_invited,2026-09-09
+C3378,Thanh Kim Ngo,thanh.ngo.kim79@example.com,Finance Analyst,2026-09-08,Tier 2,2026-09-10,,awaiting_decision,
+C3387,Duc Thu Huynh,duc.huynh.thu54@example.com,Sales Executive,2026-09-08,Tier 1,2026-09-11,2026-09-14,rejected,2026-09-17
+C3392,Khanh Thi Dang,khanh.dang.thi49@example.com,Sales Executive,2026-09-08,Tier 2,2026-09-11,2026-09-15,awaiting_decision,
+C3407,Phuong Minh Phan,phuong.phan.minh31@example.com,Finance Analyst,2026-09-08,Tier 2,2026-09-11,2026-09-12,awaiting_decision,
+C3408,Loan Hoang Le,loan.le.hoang50@example.com,Finance Analyst,2026-09-08,Tier 2,2026-09-11,2026-09-13,awaiting_decision,
+C3414,An Kim Do,an.do.kim89@example.com,Backend Engineer,2026-09-08,Tier 1,2026-09-11,2026-09-14,awaiting_decision,
+C3416,Quang Hoang Vo,quang.vo.hoang30@example.com,Finance Analyst,2026-09-08,Tier 1,2026-09-10,,no_answers_received,2026-09-17
+C2043,An Bao Tran,an.tran.bao35@example.com,Customer Success Associate,2026-09-09,Tier 1,2026-09-12,2026-09-15,awaiting_decision,
+C2044,Hieu Van Ly,hieu.ly.van26@example.com,Marketing Coordinator,2026-09-09,Tier 1,2026-09-11,2026-09-15,awaiting_decision,
+C2046,Loan Bao Huynh,loan.huynh.bao80@example.com,Backend Engineer,2026-09-09,Tier 2,2026-09-12,2026-09-16,awaiting_decision,
+C3354,Yen Minh Vo,yen.vo.minh72@example.com,Customer Success Associate,2026-09-09,Tier 2,2026-09-12,2026-09-13,rejected,2026-09-20
+C3355,Nam Hoang Do,nam.do.hoang39@example.com,Sales Executive,2026-09-09,Tier 2,2026-09-12,,awaiting_decision,
+C3358,Bao Hoang Le,bao.le.hoang13@example.com,Sales Executive,2026-09-09,Tier 2,2026-09-11,2026-09-14,awaiting_decision,
+C3368,Duc Duc Hoang,duc.hoang.duc84@example.com,Finance Analyst,2026-09-09,Tier 2,2026-09-11,2026-09-13,awaiting_decision,
+C3375,Vy Thi Vu,vy.vu.thi36@example.com,Backend Engineer,2026-09-09,Tier 1,2026-09-11,2026-09-12,awaiting_decision,
+C3393,My Gia Huynh,my.huynh.gia36@example.com,Marketing Coordinator,2026-09-09,Tier 2,2026-09-10,2026-09-14,awaiting_decision,
+C3403,Hai Hoang Pham,hai.pham.hoang39@example.com,Finance Analyst,2026-09-09,Tier 1,2026-09-10,2026-09-14,withdrew,2026-09-18
+C3410,My Van Nguyen,my.nguyen.van66@example.com,Backend Engineer,2026-09-09,Tier 1,2026-09-11,2026-09-15,withdrew,2026-09-19
+C3412,Nhi Ngoc Vo,nhi.vo.ngoc51@example.com,Backend Engineer,2026-09-09,Tier 3,,,not_invited,2026-09-11
+C3413,Khanh Kim Tran,khanh.tran.kim94@example.com,Sales Executive,2026-09-09,Tier 1,2026-09-12,2026-09-16,awaiting_decision,
+C2041,Nhi Van Tran,nhi.tran.van26@example.com,Backend Engineer,2026-09-10,Tier 1,2026-09-13,2026-09-14,awaiting_decision,
+C2049,Chi Minh Le,chi.le.minh55@example.com,Marketing Coordinator,2026-09-10,Tier 1,2026-09-13,2026-09-17,awaiting_decision,
+C3356,Ngoc Thu Truong,ngoc.truong.thu23@example.com,Backend Engineer,2026-09-10,Tier 1,2026-09-13,2026-09-15,withdrew,2026-09-20
+C3362,Tam Hoang Do,tam.do.hoang36@example.com,Backend Engineer,2026-09-10,Tier 2,2026-09-11,2026-09-14,awaiting_decision,
+C3365,Tuan Thu Ly,tuan.ly.thu92@example.com,Backend Engineer,2026-09-10,Tier 2,2026-09-13,,awaiting_decision,
+C3369,Hoa Duc Huynh,hoa.huynh.duc29@example.com,Marketing Coordinator,2026-09-10,Tier 2,2026-09-12,2026-09-15,awaiting_decision,
+C3379,Hoa Duc Ngo,hoa.ngo.duc61@example.com,Sales Executive,2026-09-10,Tier 2,2026-09-12,2026-09-14,awaiting_decision,
+C3382,Giang Van Vo,giang.vo.van68@example.com,Marketing Coordinator,2026-09-10,Tier 2,2026-09-12,2026-09-14,awaiting_decision,
+C3383,Ngoc Ngoc Le,ngoc.le.ngoc35@example.com,Backend Engineer,2026-09-10,Tier 2,2026-09-12,2026-09-15,awaiting_decision,
+C3386,Linh Ngoc Huynh,linh.huynh.ngoc87@example.com,Sales Executive,2026-09-10,Tier 3,,,not_invited,2026-09-12
+C3399,Hoa Bao Huynh,hoa.huynh.bao81@example.com,Sales Executive,2026-09-10,Tier 1,2026-09-13,,awaiting_decision,
+C3405,Thanh Thi Truong,thanh.truong.thi86@example.com,Finance Analyst,2026-09-10,Tier 3,,,not_invited,2026-09-12
+C2045,Phuong Hoang Truong,phuong.truong.hoang48@example.com,Finance Analyst,2026-09-11,Tier 3,2026-09-13,2026-09-16,awaiting_decision,
+C2052,An Kim Phan,an.phan.kim10@example.com,Sales Executive,2026-09-11,Tier 1,2026-09-14,2026-09-18,awaiting_decision,
+C3359,Nam Duc Phan,nam.phan.duc27@example.com,Sales Executive,2026-09-11,Tier 2,2026-09-14,,awaiting_decision,
+C3360,Nam Hoang Ly,nam.ly.hoang78@example.com,Marketing Coordinator,2026-09-11,Tier 2,2026-09-13,2026-09-14,awaiting_decision,
+C3374,Khanh Thi Tran,khanh.tran.thi25@example.com,Finance Analyst,2026-09-11,Tier 3,2026-09-13,2026-09-16,awaiting_decision,
+C3384,Khanh Thu Vo,khanh.vo.thu28@example.com,Customer Success Associate,2026-09-11,Tier 3,,,not_invited,2026-09-13
+C3389,Kiet Duc Pham,kiet.pham.duc65@example.com,Finance Analyst,2026-09-11,Tier 3,,,not_invited,2026-09-14
+C3395,Hieu Thu Tran,hieu.tran.thu50@example.com,Customer Success Associate,2026-09-11,Tier 1,2026-09-14,2026-09-16,awaiting_decision,
+C3397,Ha Thu Truong,ha.truong.thu52@example.com,Sales Executive,2026-09-11,Tier 1,2026-09-12,2026-09-15,awaiting_decision,
+C3409,Kiet Thi Phan,kiet.phan.thi91@example.com,Marketing Coordinator,2026-09-11,Tier 2,2026-09-12,,no_answers_received,2026-09-19
+C2042,Tam Thu Ly,tam.ly.thu85@example.com,Sales Executive,2026-09-12,Tier 3,2026-09-14,2026-09-15,awaiting_decision,
+C2047,Phuc Duc Ngo,phuc.ngo.duc67@example.com,Sales Executive,2026-09-12,Tier 1,2026-09-13,2026-09-17,awaiting_decision,
+C2048,Quang Ngoc Vu,quang.vu.ngoc92@example.com,Customer Success Associate,2026-09-12,Tier 3,2026-09-13,2026-09-17,awaiting_decision,
+C3367,Nam Bao Bui,nam.bui.bao91@example.com,Sales Executive,2026-09-12,Tier 1,2026-09-15,2026-09-19,awaiting_decision,
+C3372,My Minh Do,my.do.minh56@example.com,Marketing Coordinator,2026-09-12,Tier 2,2026-09-13,2026-09-14,awaiting_decision,
+C3373,Thao Van Truong,thao.truong.van76@example.com,Marketing Coordinator,2026-09-12,Tier 1,2026-09-13,2026-09-16,awaiting_decision,
+C3380,Kiet Duc Do,kiet.do.duc14@example.com,Marketing Coordinator,2026-09-12,Tier 3,,,not_invited,2026-09-14
+C3381,Tam Minh Pham,tam.pham.minh41@example.com,Customer Success Associate,2026-09-12,Tier 3,,,not_invited,2026-09-13
+C3396,Loan Thi Bui,loan.bui.thi31@example.com,Sales Executive,2026-09-12,Tier 3,,,not_invited,2026-09-14
+C3398,Kiet Gia Truong,kiet.truong.gia39@example.com,Sales Executive,2026-09-12,Tier 3,,,not_invited,2026-09-13
+C3400,Mai Ngoc Dang,mai.dang.ngoc22@example.com,Customer Success Associate,2026-09-12,Tier 1,2026-09-15,2026-09-16,awaiting_decision,
+C2050,Tuan Kim Ly,tuan.ly.kim83@example.com,Finance Analyst,2026-09-13,Tier 3,2026-09-14,2026-09-18,awaiting_decision,
+C2051,Hoa Duc Vo,hoa.vo.duc76@example.com,Backend Engineer,2026-09-13,Tier 2,2026-09-16,2026-09-20,awaiting_decision,
+C3361,Loan Bao Phan,loan.phan.bao96@example.com,Customer Success Associate,2026-09-13,Tier 3,2026-09-15,,awaiting_decision,
+C3376,Giang Thu Hoang,giang.hoang.thu80@example.com,Customer Success Associate,2026-09-13,Tier 3,,,not_invited,2026-09-15
+C3388,Nam Hoang Pham,nam.pham.hoang91@example.com,Customer Success Associate,2026-09-13,Tier 2,2026-09-14,2026-09-17,awaiting_decision,
+C3391,Hoa Thi Huynh,hoa.huynh.thi59@example.com,Backend Engineer,2026-09-13,Tier 3,,,not_invited,2026-09-16
+C3402,Ngoc Kim Pham,ngoc.pham.kim46@example.com,Backend Engineer,2026-09-13,Tier 2,2026-09-15,,awaiting_decision,
+C3406,Chi Hoang Hoang,chi.hoang.hoang23@example.com,Backend Engineer,2026-09-13,Tier 3,2026-09-15,,awaiting_decision,
+C2053,Thanh Minh Vu,thanh.vu.minh75@example.com,Customer Success Associate,2026-09-14,Tier 1,2026-09-17,2026-09-19,awaiting_decision,
+C3417,Dung Van Do,dung.do.van57@example.com,Sales Executive,2026-09-14,Tier 2,2026-09-17,2026-09-20,awaiting_decision,
+C3418,Hieu Thi Phan,hieu.phan.thi59@example.com,Finance Analyst,2026-09-14,Tier 2,2026-09-16,2026-09-20,awaiting_decision,
+C3431,My Thu Ngo,my.ngo.thu76@example.com,Backend Engineer,2026-09-14,Tier 2,2026-09-17,2026-09-19,awaiting_decision,
+C3434,Hieu Ngoc Ly,hieu.ly.ngoc44@example.com,Sales Executive,2026-09-14,Tier 3,,,not_invited,2026-09-15
+C3443,Thanh Kim Ly,thanh.ly.kim48@example.com,Finance Analyst,2026-09-14,Tier 2,2026-09-16,2026-09-19,awaiting_decision,
+C3452,Thao Thi Le,thao.le.thi88@example.com,Finance Analyst,2026-09-14,Tier 1,2026-09-16,2026-09-19,awaiting_decision,
+C3454,Bao Ngoc Phan,bao.phan.ngoc49@example.com,Customer Success Associate,2026-09-14,Tier 2,2026-09-17,,awaiting_decision,
+C3465,Dung Thu Huynh,dung.huynh.thu38@example.com,Backend Engineer,2026-09-14,Tier 2,2026-09-17,2026-09-18,awaiting_decision,
+C3475,Tam Thi Do,tam.do.thi22@example.com,Finance Analyst,2026-09-14,Tier 1,2026-09-16,2026-09-18,awaiting_decision,
+C3478,Thao Duc Le,thao.le.duc29@example.com,Finance Analyst,2026-09-14,Tier 3,,,not_invited,2026-09-15
+C2055,Hieu Kim Ngo,hieu.ngo.kim95@example.com,Finance Analyst,2026-09-15,Tier 2,2026-09-16,2026-09-20,awaiting_decision,
+C2057,My Ngoc Ngo,my.ngo.ngoc24@example.com,Sales Executive,2026-09-15,Tier 1,2026-09-18,2026-09-19,awaiting_decision,
+C2058,Hoa Minh Ly,hoa.ly.minh71@example.com,Finance Analyst,2026-09-15,Tier 2,2026-09-16,2026-09-19,awaiting_decision,
+C3429,Ha Minh Vo,ha.vo.minh50@example.com,Backend Engineer,2026-09-15,Tier 3,,,not_invited,2026-09-17
+C3432,Giang Gia Nguyen,giang.nguyen.gia44@example.com,Finance Analyst,2026-09-15,Tier 1,2026-09-18,,awaiting_decision,
+C3439,Hieu Van Vo,hieu.vo.van26@example.com,Marketing Coordinator,2026-09-15,Tier 3,2026-09-16,2026-09-18,awaiting_decision,
+C3442,Trang Van Vu,trang.vu.van92@example.com,Customer Success Associate,2026-09-15,Tier 1,2026-09-18,,awaiting_decision,
+C3444,Trang Van Truong,trang.truong.van96@example.com,Backend Engineer,2026-09-15,Tier 1,2026-09-17,,awaiting_decision,
+C3450,Phuong Thu Vu,phuong.vu.thu89@example.com,Finance Analyst,2026-09-15,Tier 3,,,not_invited,2026-09-16
+C3455,Kiet Hoang Vo,kiet.vo.hoang84@example.com,Backend Engineer,2026-09-15,Tier 3,,,not_invited,2026-09-16
+C3459,Tuan Minh Le,tuan.le.minh24@example.com,Finance Analyst,2026-09-15,Tier 2,2026-09-17,2026-09-20,awaiting_decision,
+C3470,Yen Bao Do,yen.do.bao67@example.com,Sales Executive,2026-09-15,Tier 2,2026-09-16,2026-09-19,awaiting_decision,
+C3473,Linh Minh Vo,linh.vo.minh36@example.com,Finance Analyst,2026-09-15,Tier 3,,,not_invited,2026-09-17
+C3477,Dung Kim Vo,dung.vo.kim53@example.com,Sales Executive,2026-09-15,Tier 2,2026-09-17,2026-09-19,awaiting_decision,
+C2054,Vy Bao Do,vy.do.bao12@example.com,Marketing Coordinator,2026-09-16,Tier 3,2026-09-18,2026-09-19,awaiting_decision,
+C3419,Dung Hoang Do,dung.do.hoang36@example.com,Backend Engineer,2026-09-16,Tier 3,,,not_invited,2026-09-19
+C3420,Phuc Bao Truong,phuc.truong.bao26@example.com,Backend Engineer,2026-09-16,Tier 1,2026-09-18,,awaiting_decision,
+C3422,Bao Thi Phan,bao.phan.thi67@example.com,Marketing Coordinator,2026-09-16,Tier 1,2026-09-19,,awaiting_decision,
+C3425,Dung Bao Phan,dung.phan.bao87@example.com,Customer Success Associate,2026-09-16,Tier 2,2026-09-17,2026-09-20,awaiting_decision,
+C3428,Khanh Minh Truong,khanh.truong.minh30@example.com,Marketing Coordinator,2026-09-16,Tier 3,,,not_invited,2026-09-19
+C3433,Hai Thi Huynh,hai.huynh.thi15@example.com,Sales Executive,2026-09-16,Tier 2,2026-09-18,2026-09-19,awaiting_decision,
+C3436,Tam Bao Pham,tam.pham.bao44@example.com,Backend Engineer,2026-09-16,Tier 2,2026-09-17,2026-09-20,awaiting_decision,
+C3438,Phuc Ngoc Ly,phuc.ly.ngoc16@example.com,Customer Success Associate,2026-09-16,Tier 3,,,not_invited,2026-09-18
+C3461,Sang Gia Pham,sang.pham.gia74@example.com,Sales Executive,2026-09-16,Tier 3,2026-09-18,,awaiting_decision,
+C3462,Nam Kim Vu,nam.vu.kim40@example.com,Finance Analyst,2026-09-16,Tier 3,2026-09-19,,awaiting_decision,
+C3471,An Gia Bui,an.bui.gia72@example.com,Sales Executive,2026-09-16,Tier 2,2026-09-18,2026-09-20,awaiting_decision,
+C2056,Quang Kim Pham,quang.pham.kim89@example.com,Backend Engineer,2026-09-17,Tier 3,2026-09-18,2026-09-19,awaiting_decision,
+C3423,Dung Thi Phan,dung.phan.thi28@example.com,Customer Success Associate,2026-09-17,Tier 1,2026-09-18,,awaiting_decision,
+C3430,Tuan Minh Ngo,tuan.ngo.minh99@example.com,Finance Analyst,2026-09-17,Tier 3,,,not_invited,2026-09-18
+C3440,Duc Kim Pham,duc.pham.kim80@example.com,Sales Executive,2026-09-17,Tier 3,2026-09-19,2026-09-20,awaiting_decision,
+C3446,Hoa Kim Le,hoa.le.kim50@example.com,Sales Executive,2026-09-17,Tier 3,,,not_invited,2026-09-18
+C3449,Trang Duc Truong,trang.truong.duc46@example.com,Customer Success Associate,2026-09-17,Tier 2,2026-09-19,2026-09-20,awaiting_decision,
+C3453,Yen Duc Phan,yen.phan.duc94@example.com,Marketing Coordinator,2026-09-17,Tier 3,,,not_invited,2026-09-20
+C3458,Sang Ngoc Nguyen,sang.nguyen.ngoc45@example.com,Finance Analyst,2026-09-17,Tier 3,,,not_invited,2026-09-20
+C3466,Ngoc Kim Le,ngoc.le.kim80@example.com,Backend Engineer,2026-09-17,Tier 2,2026-09-20,,awaiting_decision,
+C3467,Hoa Kim Truong,hoa.truong.kim19@example.com,Marketing Coordinator,2026-09-17,Tier 2,2026-09-20,,awaiting_decision,
+C3421,Thanh Hoang Phan,thanh.phan.hoang79@example.com,Sales Executive,2026-09-18,Tier 3,,,not_invited,2026-09-20
+C3427,Ha Duc Vo,ha.vo.duc15@example.com,Customer Success Associate,2026-09-18,Tier 2,2026-09-20,,awaiting_decision,
+C3435,Thao Hoang Do,thao.do.hoang91@example.com,Marketing Coordinator,2026-09-18,Tier 2,,,awaiting_decision,
+C3445,Giang Hoang Dang,giang.dang.hoang78@example.com,Customer Success Associate,2026-09-18,Tier 2,2026-09-20,,awaiting_decision,
+C3447,Quang Thi Vo,quang.vo.thi65@example.com,Customer Success Associate,2026-09-18,Tier 3,,,not_invited,2026-09-19
+C3456,Hai Hoang Ngo,hai.ngo.hoang57@example.com,Backend Engineer,2026-09-18,Tier 2,,,awaiting_decision,
+C3474,Nam Hoang Nguyen,nam.nguyen.hoang29@example.com,Backend Engineer,2026-09-18,Tier 2,2026-09-19,,awaiting_decision,
+C3448,Yen Hoang Bui,yen.bui.hoang22@example.com,Backend Engineer,2026-09-19,Tier 2,2026-09-20,,awaiting_decision,
+C3451,Tuan Thi Ly,tuan.ly.thi39@example.com,Backend Engineer,2026-09-19,Tier 3,,,not_invited,2026-09-20
+C3457,My Ngoc Nguyen,my.nguyen.ngoc17@example.com,Backend Engineer,2026-09-19,Tier 1,,,awaiting_decision,
+C3464,Linh Gia Vu,linh.vu.gia37@example.com,Sales Executive,2026-09-19,Tier 3,,,not_invited,2026-09-20
+C3469,Thao Duc Huynh,thao.huynh.duc71@example.com,Finance Analyst,2026-09-19,Tier 2,,,awaiting_decision,
+C3424,Linh Hoang Pham,linh.pham.hoang76@example.com,Backend Engineer,2026-09-20,Tier 1,,,awaiting_decision,
+C3426,Hieu Duc Tran,hieu.tran.duc21@example.com,Finance Analyst,2026-09-20,Tier 1,,,awaiting_decision,
+C3437,Hieu Van Le,hieu.le.van44@example.com,Backend Engineer,2026-09-20,Tier 1,,,awaiting_decision,
+C3441,Nhi Bao Vo,nhi.vo.bao74@example.com,Customer Success Associate,2026-09-20,Tier 2,,,awaiting_decision,
+C3460,Loan Van Pham,loan.pham.van61@example.com,Customer Success Associate,2026-09-20,Tier 3,,,awaiting_decision,
+C3463,Mai Bao Dang,mai.dang.bao74@example.com,Sales Executive,2026-09-20,Tier 3,,,awaiting_decision,
+C3468,Trang Thu Hoang,trang.hoang.thu54@example.com,Finance Analyst,2026-09-20,Tier 2,,,awaiting_decision,
+C3472,Nam Gia Pham,nam.pham.gia14@example.com,Sales Executive,2026-09-20,Tier 3,,,awaiting_decision,
+C3476,Linh Duc Phan,linh.phan.duc85@example.com,Customer Success Associate,2026-09-20,Tier 2,,,awaiting_decision,

@@ -1,0 +1,9 @@
+{
+  "answer_id": "A020",
+  "candidate_id": "C2050",
+  "role": "Finance Analyst",
+  "question_id": "Q6",
+  "submitted_at": "2026-09-18T07:19:00",
+  "duration_seconds": 85,
+  "transcript": "The most useful thing I've learned recently is SQL, actually. We do a bank reconciliation every week, matching bank lines to our ledger, and it was taking one of us most of a Tuesday, like five, six hours in Excel with lookups that kept breaking. I'd wanted to learn SQL for ages and this gave me a reason. So I did a short online course, the first four modules, over about two weeks in the evenings, and then I stopped the course and just tried it on our actual data, a copy of it, obviously. The first version was, um, honestly pretty bad, it matched things that shouldn't match, same amount, different supplier. So I added the reference field and a date window and that fixed most of it. Now the query matches about ninety percent of lines automatically and we only look at the rest by hand. The Tuesday job is down to around an hour. I showed my teammate how to run it, and she's extended it to our second bank account. Next I want to learn enough Python to schedule it, so nobody has to run it at all."
+}

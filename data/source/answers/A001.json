@@ -1,0 +1,9 @@
+{
+  "answer_id": "A001",
+  "candidate_id": "C2041",
+  "role": "Backend Engineer",
+  "question_id": "Q1",
+  "submitted_at": "2026-09-14T10:15:00",
+  "duration_seconds": 75,
+  "transcript": "Okay, so, the piece of work I'm proudest of is... it's actually a pretty unglamorous one. At my last company we had a payments service, and every few weeks a customer would get charged twice. Nobody could reproduce it. I asked to take it, mostly because it annoyed me. So I spent the first two days just reading logs, like, really reading them, and I noticed the double charges always lined up with the payment provider timing out and our worker retrying. The retry didn't know the first call had actually gone through. So my part, specifically, was I designed an idempotency key for each charge, stored it before the call, and made the retry check it first. I wrote the migration, I wrote the tests that replay a timeout, and I did the rollout behind a flag, ten percent, then half, then everyone. Um, the result... we went from roughly six double charges a month to zero over the next quarter, and support stopped getting those angry tickets. If I did it again I'd have pushed for an alert on provider timeouts earlier, because that's what would have caught it months before."
+}

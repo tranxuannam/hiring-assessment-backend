@@ -1,0 +1,9 @@
+{
+  "answer_id": "A021",
+  "candidate_id": "C2051",
+  "role": "Backend Engineer",
+  "question_id": "Q4",
+  "submitted_at": "2026-09-18T14:50:00",
+  "duration_seconds": 67,
+  "transcript": "Okay, a mistake. I ran a database migration during the day that locked a big table, the orders table, for about eight minutes. I'd tested it on staging and it was instant, but staging had like a thousand rows and production had, I don't know, forty million. So checkout basically stopped for eight minutes. The on-call engineer noticed first because the error rate spiked, and then I realised it was my migration and I told the team in the incident channel. We waited it out because killing it halfway seemed riskier. Afterwards we did a review. I learned that staging data size really matters, which, yeah, sounds obvious now. The team agreed that big migrations should run at night and be split into smaller batches. We wrote that down somewhere in the wiki, I believe. I've followed it since then, for my own migrations at least. I'm not sure everyone else does. It was embarrassing, but people were pretty nice about it, and my lead said everyone does something like that once. I'm a lot more careful with databases now because of it."
+}

@@ -1,0 +1,266 @@
+{
+  "archive": "business-systems-pack.zip",
+  "source_readme": "data/source/README.md",
+  "facts": {
+    "questions": 6,
+    "answer_json_files": 35,
+    "text_transcripts": 30,
+    "audio_only_answers": 5,
+    "answer_candidate_ids": 18,
+    "pipeline_rows": 496,
+    "scoring_sheet_rows": 540,
+    "hr_reference_score_rows": 10,
+    "duplicate_candidate_question": {
+      "candidate_id": "C2052",
+      "question_id": "Q3",
+      "submissions": [
+        {
+          "answer_id": "A022",
+          "submitted_at": "2026-09-18T17:55:00"
+        },
+        {
+          "answer_id": "A023",
+          "submitted_at": "2026-09-18T18:15:00"
+        }
+      ],
+      "proposed_current": "A023"
+    }
+  },
+  "source_files": [
+    {
+      "path": "answers/A033.m4a",
+      "bytes": 318376,
+      "sha256": "88f993d51b08386313d2d65e798a4473c53539f8d04a0201c243e280703e8869"
+    },
+    {
+      "path": "answers/A008.json",
+      "bytes": 1166,
+      "sha256": "59f2cda0438e35c46e6cbf9758ba6fb465d9dab8a40aee4f6615e6c5e144ad21"
+    },
+    {
+      "path": "answers/A024.json",
+      "bytes": 1169,
+      "sha256": "5a67369b22e099d580d8293c97bdd2d80937555d065600013ab2629e24a31b04"
+    },
+    {
+      "path": "answers/A032.m4a",
+      "bytes": 304438,
+      "sha256": "dae732a048310d1ec906f7b8049da89af41fd2c2912e9544e71038ea19119463"
+    },
+    {
+      "path": "answers/A032.json",
+      "bytes": 222,
+      "sha256": "ebdb090caddd34592b1f8d1ad901d932b4525c98bb52a2ad63ca122859151c97"
+    },
+    {
+      "path": "answers/A012.json",
+      "bytes": 1203,
+      "sha256": "eaf1eefc3b1bc5a5f53271f86bcd1f1bff5fad84f678bc97eef1dc5ddeeddfb3"
+    },
+    {
+      "path": "answers/A004.json",
+      "bytes": 1189,
+      "sha256": "1eada6d650e94d082301e44bbee2d8c78f8ba9aca9a946a25ff5b0a3c5af39bc"
+    },
+    {
+      "path": "answers/A028.json",
+      "bytes": 1150,
+      "sha256": "727eb5de007d954b5444a7d3224b1ee5c951941f423d85799bebf8be04a6445d"
+    },
+    {
+      "path": "answers/A031.m4a",
+      "bytes": 370367,
+      "sha256": "8079006433a7384ba3b21e32701840e2af5c49ba3d42605d0c3ca23c465bb3ad"
+    },
+    {
+      "path": "answers/A035.m4a",
+      "bytes": 332100,
+      "sha256": "c81645527ccc4bc4471f60d5991739c0376cab34572596e6e1fa2a0f05f57bce"
+    },
+    {
+      "path": "answers/A029.json",
+      "bytes": 1158,
+      "sha256": "302391e58a1f170f5b26667b259b8b81c75bd0d1f05ffef1c850aff29708bdcb"
+    },
+    {
+      "path": "answers/A005.json",
+      "bytes": 1274,
+      "sha256": "1b532520cc66ac464f5205dcd3bcd913a600882e1085d2e64135ee9ec599dd08"
+    },
+    {
+      "path": "answers/A034.m4a",
+      "bytes": 328581,
+      "sha256": "3135c682d5a24955fb2142cae7934c7732dc8cd337b5722bb8af917954530256"
+    },
+    {
+      "path": "answers/A013.json",
+      "bytes": 1256,
+      "sha256": "4299dfecabe5f205c34daec95a3913e2669270cecb99d949a3680d18c812cbb6"
+    },
+    {
+      "path": "answers/A033.json",
+      "bytes": 221,
+      "sha256": "9604c2b3f79e4d78b53b6ec79082ac6fab3742d7d332b33196d40c9e348a8dff"
+    },
+    {
+      "path": "answers/A025.json",
+      "bytes": 1193,
+      "sha256": "ac9fa5b20c0540b3b050d72c5cba2fcf7766cdf46e6aac6b751a4c10d270ba7e"
+    },
+    {
+      "path": "answers/A009.json",
+      "bytes": 1260,
+      "sha256": "07502b138ea6d075bd0ca8f6ef104aabf7b80bde805e59a8a0deae10f3611a58"
+    },
+    {
+      "path": "answers/A014.json",
+      "bytes": 1206,
+      "sha256": "c1f48a879c91f74a9365795c010590d38c98f915bf7635b12395b043051b972a"
+    },
+    {
+      "path": "answers/A002.json",
+      "bytes": 1200,
+      "sha256": "3f14b5d6f979e29174235a36cfa2fd147e5d9bbda14c50a31119c11eb38363a5"
+    },
+    {
+      "path": "answers/A018.json",
+      "bytes": 1147,
+      "sha256": "132869ff93347204266b7a74fad5174d6f93d38efaaffb4039f2d5d01c1853bb"
+    },
+    {
+      "path": "answers/A022.json",
+      "bytes": 1102,
+      "sha256": "86e4523165cbefc1e8e9f40bd4c7300471d486edce9682e64b48c94b0a0d6b08"
+    },
+    {
+      "path": "answers/A034.json",
+      "bytes": 221,
+      "sha256": "2acb354f99416c2797c79e4bf24159fa9505d9ed8b1726e9623750ea8685946d"
+    },
+    {
+      "path": "answers/A035.json",
+      "bytes": 221,
+      "sha256": "278712b1907cb08e33ba6b13e1a9b8995d3efacd881b397d46f8ab9749a620a2"
+    },
+    {
+      "path": "answers/A023.json",
+      "bytes": 1242,
+      "sha256": "0134d6e773228a21a7451d31f4515fa3a902a09564f8883b433baaafaf0f353c"
+    },
+    {
+      "path": "answers/A019.json",
+      "bytes": 1160,
+      "sha256": "74583ff78e6875787074b0eae847eb3a64e5e955d704d019f72a7cec1f1d913f"
+    },
+    {
+      "path": "answers/A003.json",
+      "bytes": 1160,
+      "sha256": "a4bad81876e1b36b375d0005b3cbaa72118fe9d585d8eeccdddddf939203a96e"
+    },
+    {
+      "path": "answers/A015.json",
+      "bytes": 1425,
+      "sha256": "b9b113073f64a1b3f32e6a6279c5493e381ea5ae202a0ed21d2930b04e341cbd"
+    },
+    {
+      "path": "answers/A016.json",
+      "bytes": 1162,
+      "sha256": "4eb7a8ca07d6ff04e2ec0b409f74168b4e3acf528014e7745d76c2956acfa2ab"
+    },
+    {
+      "path": "answers/A020.json",
+      "bytes": 1197,
+      "sha256": "cae12fddc9ebc8f96fa8a7f84022226c9427a11d6253478824646f307094bf97"
+    },
+    {
+      "path": "answers/A021.json",
+      "bytes": 1230,
+      "sha256": "b44d78a18e44b2b455000df458d38b8ded4d4ab6d6686d51cabc9e46242a0aed"
+    },
+    {
+      "path": "answers/A017.json",
+      "bytes": 1166,
+      "sha256": "8624fd5d1ecfb324728aa73de354fe454e7c25d2be3e538933514d374b85e1e9"
+    },
+    {
+      "path": "answers/A001.json",
+      "bytes": 1269,
+      "sha256": "6a573ce752e1e9cc495359cc40919c1a74a8feeb8430dc9ac3b1f9d8eea8b8ea"
+    },
+    {
+      "path": "answers/A030.json",
+      "bytes": 1163,
+      "sha256": "f93121a645faeb9f2cdbede613c44feb82f94f2ea92b742e622da44b3fa45b91"
+    },
+    {
+      "path": "answers/A026.json",
+      "bytes": 1201,
+      "sha256": "94e30424d6f8c75e712148377bc2072164ab19e630c8773b38c404f3def75b77"
+    },
+    {
+      "path": "answers/A006.json",
+      "bytes": 1244,
+      "sha256": "9761dee3ba75122139bc5e7c59dfc5b0bb90f9ffa880d637b412d3838116027a"
+    },
+    {
+      "path": "answers/A010.json",
+      "bytes": 1191,
+      "sha256": "ecdeec02ea2459f020c9b751bc659aa74802bfb0f6f4396d989bf36f51fcafa0"
+    },
+    {
+      "path": "answers/A011.json",
+      "bytes": 1192,
+      "sha256": "30443bf1d1fe1dd9712803d1e304c29fe669ee3cf3c3702c6e4e9d69fd20dd7f"
+    },
+    {
+      "path": "answers/A007.json",
+      "bytes": 196,
+      "sha256": "bb8a0b4237fe7728291ad5504e3b71b9af4d1ec09142d53fbd378cf23a209ed5"
+    },
+    {
+      "path": "answers/A027.json",
+      "bytes": 3471,
+      "sha256": "b10d3bef47cdd75c5d559540a9f528f8de0225610c5617cfcdd2fee370d6d61a"
+    },
+    {
+      "path": "answers/A031.json",
+      "bytes": 222,
+      "sha256": "f2d9750fad810218f239e0484cb733d47700c2fb3901263c9a4e55dd0c6bbb0a"
+    },
+    {
+      "path": "pipeline_log.csv",
+      "bytes": 61018,
+      "sha256": "5aa4944fc7f38f3019a74e40690e577f0556bd46f6112aedfc8a2c8d24c35e34"
+    },
+    {
+      "path": "hr_time_log.csv",
+      "bytes": 1842,
+      "sha256": "de1934d117e5a30b0f888324b96cb3413046ea81407c06c6c35c751173f64fdc"
+    },
+    {
+      "path": "hr_reference_scores.csv",
+      "bytes": 189,
+      "sha256": "ca6558505cd0a640649ba2e176584f37382480c630700f3d5038a2e19d03defa"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2557,
+      "sha256": "d43d84c49ed01b116cff698e98e7ea3097dd0f26a9e7af5474619149bc7ccf72"
+    },
+    {
+      "path": "inbox_export.csv",
+      "bytes": 29286,
+      "sha256": "9c0e537da134c4e22e7a325857463a75e89be67c6e7d7fad58ef525f487e7d66"
+    },
+    {
+      "path": "questions.md",
+      "bytes": 2691,
+      "sha256": "7beb2023b06dff74d57442225ff2b4dfaf762a2897ebf955be1900b8849f29d8"
+    },
+    {
+      "path": "scoring_sheet.csv",
+      "bytes": 50762,
+      "sha256": "235e686576378a9099ba21fb0f27f9fff1835514011bd28dcc1fb6f0e93e3c7d"
+    }
+  ]
+}
